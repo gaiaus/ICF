@@ -90,11 +90,11 @@ A foundation deed is a document creating the foundation, and it must be duly cer
 ### [Statutory Auditor](https://github.com/gaiaus/ICF/tree/main/stiftung#statutory-auditor)
 
 
-## [Finances](https://github.com/gaiaus/ICF/blob/main/stiftung/README.md#iv-finances)
+## [Finances](https://github.com/gaiaus/ICF/tree/main/stiftung#finances-1)
 
-### [Treasury](https://github.com/gaiaus/ICF/blob/main/stiftung/README.md#atreasury)
+### [Treasury](https://github.com/gaiaus/ICF/tree/main/stiftung#treasury)
 
-* [ATOM](https://github.com/gaiaus/ICF/tree/main/stiftung#atom)
+* [ATOM](https://github.com/gaiaus/ICF/tree/main/stiftung#atom) 
 * [ETH](https://github.com/gaiaus/ICF/tree/main/stiftung#ethereum)
 * [BTC](https://github.com/gaiaus/ICF/tree/main/stiftung#bitcoin)
 * [FIAT](https://github.com/gaiaus/ICF/tree/main/stiftung#fiat)
