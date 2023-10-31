@@ -1,7 +1,4 @@
 
-<img width="393" alt="BFC_Headshot" src="https://github.com/MinYan10/ICF/assets/146326929/ec4a57e0-1517-4dbc-9d5c-813a65abb524">
-
-
 ## Name
 Brian Fabian Crane
 
