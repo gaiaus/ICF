@@ -506,7 +506,8 @@ ICF's ETH is managed via a smart-contract wallet.
 * [`investigations/unknown_wallets/eth/notes`](https://github.com/gaiaus/ICF/blob/main/investigations/wallets/unknown_wallets/eth/notes.md)
 
 #### Bitcoin
-[ICF Bitcoin](https://github.com/cosmos/mainnet/blob/70d6682e987b81ec6cd73405e40aaecbf9f51912/accounts/public/btc_main.go#L14): [35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8](https://explorer.btc.com/btc/search/35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8)
+
+ICF Bitcoin Wallet: [35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8](https://explorer.btc.com/btc/search/35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8)
 
 [ICF Bitcoin Cash](bitcoincash:pqhzx2n94uhcj8xtk9szx6pm3kl2367vau9n6u7swt)
 
