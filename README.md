@@ -43,7 +43,7 @@ A Swiss foundation has no owners or shareholders, but there is a founder. Depend
 What is the purpose of the Interchain Foundation? Why does it mattter? What happens if the foundation administration is not in compliance with its purpose?
 
 
-## [Governance](https://github.com/gaiaus/ICF/tree/main/stiftung#ii-governance)
+## [Governance](https://github.com/gaiaus/ICF/tree/main/stiftung#governance)
 Who's the boss? 
  
 ### [Supervisory Authority](https://github.com/gaiaus/ICF/tree/main/stiftung#ii-governance)
