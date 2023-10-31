@@ -1,0 +1,129 @@
+name: Sample form
+description: Submit a tip regarding misconduct and or a concern. 
+title: "[Tip]: "
+labels: [tip]
+assignees:
+  - MinYan10
+body:
+  - type: input
+    id: sample-input
+    attributes:
+      label: Sample Input
+      description: Write text here.
+      placeholder: Here will be text
+    validations:
+      required: true
+
+
+
+name: TIP
+description: File a hot tip.
+title: "[TIP]: "
+labels: ["tip", "triage"]
+projects: ["accountability", "investigation"]
+assignees:
+  - MinYan10
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for taking the time to submit a tip. Sunlight is the best disinfectant!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more information?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+  - type: dropdown
+    id: Category
+    attributes:
+      label: Category
+      description: What category of the Foundation's function/performance does your matter concern? Please consult the [Interchain Stiftung Guide](https://github.com/MinYan10/ICF/blob/main/stiftung/guide.md), or documentation in the [Accountability Folder](https://github.com/MinYan10/ICF/tree/main/accountability) if you are unsure. 
+      options:
+        - Governance (e.g., conflicts of interest, self-dealing, abuse of power)
+        - Operations (e.g., irregular/incomplete transparency reports)
+        - Finance (e.g., asset management, liquidations)
+        - Policy & Programs (e.g., Delegation Policy, Builders Program, Grant-Making Program)
+        - Other
+        - My tip is relevant to mulitple categories
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: other
+    attributes:
+      label: Other (please describe) 
+      description: Which primary foundation function/s does your case report concern? 
+      placeholder: None of the above options apply, this tip/lead uniquely pertains to... 
+      value: "This tip is regarding..."
+  - type: dropdown
+    id: issue-area
+    attributes:
+      label: Issue area
+      description: Please select the kind of issue your tip concerns.
+      options:
+        - incompetence
+        - mismanagement
+        - misconduct (e.g., verbal, emotional abuse, favourtism)
+        - gross misconduct (e.g., sexual abuse, self-dealing, bribery, cronyism)
+        - negligence/gross-negligence
+        - fraud (e.g., tax fraud, procurement fraud)
+        - theft (e.g., misappropriation of funds)
+        - illicit enrichment 
+        - money laundering
+        - obfuscation or falsification of information/identity
+        - other; please describe offending action below
+        - mulitple issues (please list in text area below)
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: other-1
+    attributes:
+      label: Other issue or concern 
+      description: Please describe the violation or illegal activity your tip concerns. 
+      placeholder: None of the above options apply.. 
+      value: "This tip is regarding..."
+  - type: dropdown
+    id: who
+    attributes:
+      label: Who is responsible?
+      description: Or who has oversight? Or, who did it?
+      options: 
+        - Foundation Council (Ethan Buchman, Brian Crain, Fernando Pedrone)
+        - Former Foundation Council members
+        - Interchain AG Executive Management team members
+        - Interchain Foundation employees
+        - IFC stakeholder or beneficiary (e.g., core-tech contributors or teams)
+        - other
+      default: 0
+    validations:
+      required: true
+  - type: textarea
+    id: other-2
+    attributes:
+      label: It's complicated... 
+      description: Please describe who is involved if none of the above apply. 
+      placeholder: None of the above options apply... 
+      value: "This matter involves..."
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe your tip in detail. Provide any key names with contact information, a timeline of what happened and when and where it occured, and any other information you wish to provide. Attach any files or documents relevant to your case submission. If necessary, create a PR with your issue or case number, and attach supporting documents accordingly.   
+      placeholder: Tell us what happened...what's wrong, and what do you know? 
+      value: "I have proof/reason to believe..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Agreement
+      description: By submitting this issue, I hereby declare that the statements made are true to the best of my knowledge and belief. I have verified any and all supporting materials for precision prior to submitting the information. I understand my statements and supporting documents may be quoted or published in another public forum and or medium. I understand that by sharing my materials and statements in this public forum, any user or administrator of the repository may, in their discretion, share and or reference the information provided by me with a relevant supervisory authority.   
+      options:
+        - label: I agree to the terms of the Agreement. 
+          required: true
+    
+      

@@ -1,0 +1,119 @@
+**cstv,,,,,,,
+,,,,,,,
+Chain ID,TxHash,Height,Time,Type,Validator Address,Name,Amount ATOM
+cosmoshub-1,D660E3293D0633546F132B8ACFE10EC19BD66F9C2E2CD6792DD631654B6EC0F5,91442,2019-03-20 22:42:26,Delegate,cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv,B-Harvest,"7,692.31"
+,,,,Delegate,cosmosvaloper14kn0kk33szpwus9nh8n87fjel8djx0y070ymmj,Forbole,7692.307692
+,,,,Delegate,cosmosvaloper1we6knm8qartmmh2r0qfpsz6pq0s7emv3e0meuw,Staked,7692.307692
+,,,,Delegate,cosmosvaloper1uhnsxv6m83jj3328mhrql7yax3nge5svrv6t6c,S16 Research Ventures,7692.307692
+,,,,Delegate,cosmosvaloper1000ya26q2cmh399q4c5aaacd9lmmdqp90kw2jn,Staking Fund,7692.307692
+,,,,Delegate,cosmosvaloper1k9a0cs97vul8w2vwknlfmpez6prv8klv03lv3d,Stake Capital,7692.307692
+,,,,Delegate,cosmosvaloper1cgh5ksjwy2sd407lyre4l3uj2fdrqhpkzp06e6,Hash Quark,7692.307692
+,2D343521EA6FF918C0EE7D9CB2122086983AA928EC70FF668BA982679BBCE534,91526,2019-03-20 22:52:06,Delegate,cosmosvaloper14l0fp639yudfl46zauvv8rkzjgd4u0zk2aseys,Atomic Power Node,7692.307692
+,,,,Delegate,cosmosvaloper15r4tc0m6hc7z8drq3dzlrtcs6rq2q9l2nvwher,DragonStake,7692.307692
+,,,,Delegate,cosmosvaloper1j0vaeh27t4rll7zhmarwcuq8xtrmvqhudrgcky,Chainflow,7692.307692
+,,,,Delegate,cosmosvaloper1s65zmn32zugl57ysj47s7vmfcek0rtd7he7wde,firstblock,7692.307692
+,,,,Delegate,cosmosvaloper102ruvpv2srmunfffxavttxnhezln6fnc54at8c,Ztake.org,7692.307692
+,,,,Delegate,cosmosvaloper1rcp29q3hpd246n6qak7jluqep4v006cdsc2kkl,in3s.com,7692.307692
+,,,,Delegate,cosmosvaloper1emaa7mwgpnpmc7yptm728ytp9quamsvu837nc0,kochacolaj,7692.307692
+,25EDD9EE854869AE9EF1961365C71A4AB1B5EFC943292C3DDF587A4F78E76E51,91539,2019-03-20 22:53:36,Delegate,cosmosvaloper1jxv0u20scum4trha72c7ltfgfqef6nsch7q6cu,Ping,7692.307692
+,,,,Delegate,cosmosvaloper19kwwdw0j64xhrmgkz49l0lmu5uyujjayxakwsn,Firmamint,7692.307692
+,,,,Delegate,cosmosvaloper1w42lm7zv55jrh5ggpecg0v643qeatfkd9aqf3f,mythos-legacy,7692.307692
+,,,,Delegate,cosmosvaloper1n5pu2rtz4e2skaeatcmlexza7kheedzh8a2680,BlockMatrix,7692.307692
+,,,,Delegate,cosmosvaloper1ff0dw8kawsnxkrgj7p65kvw7jxxakyf8n583gx,Compass,7692.307692
+,,,,Delegate,cosmosvaloper19j2hd230c3hw6ds843yu8akc0xgvdvyuz9v02v,syncnode,7692.307692
+,,,,Delegate,cosmosvaloper1s6t3wzx6mcv3pjg5fp2ddzplm3gj4pg6d330wg,omega3,7692.307692
+,3EF6D2982CAD7CAD598CF0BD63298B4E5A64FA18B7E8EE2F9880AB905205F87C,91545,2019-03-20 22:54:18,Delegate,cosmosvaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucudztfe,KalpaTech,7692.307692
+,,,,Delegate,cosmosvaloper1r8kyvg4me2upnvlk26n2ay0zd5t4jktna8hhxp,noma,7692.307692
+,,,,Delegate,cosmosvaloper1u6ddcsjueax884l3tfrs66497c7g86skn7pa0u,Sentinel,7692.307692
+,,,,Delegate,cosmosvaloper1wtv0kp6ydt03edd8kyr5arr4f3yc52vp3u2x3u,kytzu,7692.307692
+,,,,Delegate,cosmosvaloper1pjmngrwcsatsuyy8m3qrunaun67sr9x7z5r2qs,Cypher Core,7692.307692
+,95B258A7CCA6562032879D5BE0B22AE41FFB27BFAA1CB04F14C168BB9485C1FB,99163,2019-03-21 13:33:11,Delegate,cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv,B-Harvest,"63,245.49"
+,,,,Delegate,cosmosvaloper14kn0kk33szpwus9nh8n87fjel8djx0y070ymmj,Forbole,"82,955.06"
+,,,,Delegate,cosmosvaloper1uhnsxv6m83jj3328mhrql7yax3nge5svrv6t6c,S16 Research Ventures,"167,556.50"
+,,,,Delegate,cosmosvaloper1000ya26q2cmh399q4c5aaacd9lmmdqp90kw2jn,Staking Fund,"167,556.50"
+,,,,Delegate,cosmosvaloper1k9a0cs97vul8w2vwknlfmpez6prv8klv03lv3d,Stake Capital,"167,556.50"
+,,,,Delegate,cosmosvaloper1cgh5ksjwy2sd407lyre4l3uj2fdrqhpkzp06e6,Hash Quark,"167,556.50"
+,,,,Delegate,cosmosvaloper14l0fp639yudfl46zauvv8rkzjgd4u0zk2aseys,Atomic Power Node,"167,556.50"
+,E7CC9FD0053C46D38D9CBB25D8D055479E047F1C51D0A61CF2330A0E9AAF015E,99306,2019-03-21 13:49:43,Delegate,cosmosvaloper15r4tc0m6hc7z8drq3dzlrtcs6rq2q9l2nvwher,DragonStake,"167,556.50"
+,,,,Delegate,cosmosvaloper1j0vaeh27t4rll7zhmarwcuq8xtrmvqhudrgcky,Chainflow,"167,556.50"
+,,,,Delegate,cosmosvaloper1s65zmn32zugl57ysj47s7vmfcek0rtd7he7wde,firstblock,"167,556.50"
+,,,,Delegate,cosmosvaloper102ruvpv2srmunfffxavttxnhezln6fnc54at8c,Ztake.org,"167,556.50"
+,,,,Delegate,cosmosvaloper1rcp29q3hpd246n6qak7jluqep4v006cdsc2kkl,in3s.com,"167,556.50"
+,,,,Delegate,cosmosvaloper1emaa7mwgpnpmc7yptm728ytp9quamsvu837nc0,kochacolaj,"167,556.50"
+,,,,Delegate,cosmosvaloper1jxv0u20scum4trha72c7ltfgfqef6nsch7q6cu,Ping,"167,556.50"
+,D04DAF0E2C3B77FB64DDA41F98E28179C480D6F63082A6FFD673DC0BB597DD51,99358,2019-03-21 13:55:43,Delegate,cosmosvaloper19kwwdw0j64xhrmgkz49l0lmu5uyujjayxakwsn,Firmamint,"167,556.50"
+,,,,Delegate,cosmosvaloper1w42lm7zv55jrh5ggpecg0v643qeatfkd9aqf3f,mythos-legacy,"167,556.50"
+,,,,Delegate,cosmosvaloper1n5pu2rtz4e2skaeatcmlexza7kheedzh8a2680,BlockMatrix,"167,556.50"
+,,,,Delegate,cosmosvaloper1ff0dw8kawsnxkrgj7p65kvw7jxxakyf8n583gx,Compass,"167,556.50"
+,,,,Delegate,cosmosvaloper19j2hd230c3hw6ds843yu8akc0xgvdvyuz9v02v,syncnode,"167,556.50"
+,,,,Delegate,cosmosvaloper1s6t3wzx6mcv3pjg5fp2ddzplm3gj4pg6d330wg,omega3,"167,556.50"
+,,,,Delegate,cosmosvaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucudztfe,KalpaTech,"167,556.50"
+,6CAAA581DC83193E17798A7145C320BC787264427BE19BA873EEC9D2058F9570,99423,2019-03-21 14:03:13,Delegate,cosmosvaloper1u6ddcsjueax884l3tfrs66497c7g86skn7pa0u,Sentinel,"167,556.50"
+,,,,Delegate,cosmosvaloper1r8kyvg4me2upnvlk26n2ay0zd5t4jktna8hhxp,noma,"167,556.50"
+,,,,Delegate,cosmosvaloper1wtv0kp6ydt03edd8kyr5arr4f3yc52vp3u2x3u,kytzu,"167,556.50"
+,,,,Delegate,cosmosvaloper1pjmngrwcsatsuyy8m3qrunaun67sr9x7z5r2qs,Cypher Core,"167,556.50"
+,8E66AE7ED2DABFAC3D690920DFD681A9C68495E784C3F6D783B0A206294DBB0C,341481,2019-04-09 21:40:21,Delegate,cosmosvaloper17mggn4znyeyg25wd7498qxl7r2jhgue8u4qjcq,01node,"175,248.81"
+,,,,Delegate,cosmosvaloper1rfpar0qx3umnhu0f6wjp4hvnr3x6u5389e094j,DECOMMISSIONED,"175,248.81"
+,,,,Delegate,cosmosvaloper1te8nxpc2myjfrhaty0dnzdhs5ahdh5agzuym9v,CoinoneNode,"175,248.81"
+,0B30047AC01C857C5378FCFBFEC6AF378A14EB6B023860E454D0C49C80B4AA27,376606,2019-04-12 16:26:27,Delegate,cosmosvaloper1emaa7mwgpnpmc7yptm728ytp9quamsvu837nc0,kochacolaj,"4,626.84"
+,,,,Delegate,cosmosvaloper1s65zmn32zugl57ysj47s7vmfcek0rtd7he7wde,firstblock,"15,944.67"
+,,,,Delegate,cosmosvaloper1d0aup392g3enru7eash83sedqclaxvp7fzh6gk,Stir,"21,040.00"
+,,,,Delegate,cosmosvaloper1j0vaeh27t4rll7zhmarwcuq8xtrmvqhudrgcky,Chainflow,"22,231.41"
+,,,,Delegate,cosmosvaloper1ttfytaf43nkytzp8hkfjfgjc693ky4t3y2n2ku,StarCluster,"34,998.00"
+,,,,Delegate,cosmosvaloper1ssm0d433seakyak8kcf93yefhknjleeds4y3em,IRISnet-Bianjie,"36,499.00"
+,,,,Delegate,cosmosvaloper1rcp29q3hpd246n6qak7jluqep4v006cdsc2kkl,in3s.com,"53,791.02"
+,0FC3570ED85313A37C1C2C7D470F189935AD45ECD935E55739A28E07BB8E14CB,376775,2019-04-12 16:45:57,Delegate,cosmosvaloper1w42lm7zv55jrh5ggpecg0v643qeatfkd9aqf3f,mythos-legacy,"59,170.19"
+,,,,Delegate,cosmosvaloper19kwwdw0j64xhrmgkz49l0lmu5uyujjayxakwsn,Firmamint,"59,243.19"
+,,,,Delegate,cosmosvaloper1n5pu2rtz4e2skaeatcmlexza7kheedzh8a2680,BlockMatrix,"59,612.63"
+,,,,Delegate,cosmosvaloper1ff0dw8kawsnxkrgj7p65kvw7jxxakyf8n583gx,Compass,"59,721.19"
+,,,,Delegate,cosmosvaloper19j2hd230c3hw6ds843yu8akc0xgvdvyuz9v02v,syncnode,"60,051.28"
+,,,,Delegate,cosmosvaloper1s6t3wzx6mcv3pjg5fp2ddzplm3gj4pg6d330wg,omega3,"64,570.19"
+,,,,Delegate,cosmosvaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucudztfe,KalpaTech,"64,751.19"
+,0760189FE7D40A5E6CB07376BCCAD8DB8F65BD8FC17C6598B266616D7B7EB7BF,376782,2019-04-12 16:46:45,Delegate,cosmosvaloper1u6ddcsjueax884l3tfrs66497c7g86skn7pa0u,Sentinel,"67,635.71"
+,,,,Delegate,cosmosvaloper1r8kyvg4me2upnvlk26n2ay0zd5t4jktna8hhxp,noma,"69,751.19"
+,,,,Delegate,cosmosvaloper1wtv0kp6ydt03edd8kyr5arr4f3yc52vp3u2x3u,kytzu,"72,451.19"
+,,,,Delegate,cosmosvaloper1pjmngrwcsatsuyy8m3qrunaun67sr9x7z5r2qs,Cypher Core,"73,251.19"
+,,,,Delegate,cosmosvaloper1s05va5d09xlq3et8mapsesqh6r5lqy7mkhwshm,Wetez,"74,914.60"
+,,,,Delegate,cosmosvaloper1ps7dmygt4wm72t8l9kdjetelhggsv8w77mdh33,CosmosPool.org,"61,505.00"
+,,,,Delegate,cosmosvaloper1kgddca7qj96z0qcxr2c45z73cfl0c75p7f3s2e,Chainlayer,"53,141.67"
+,C663FDC44F7132FE464C659036C481CC21307C9D87346679C0B3247E3FDCCBA4,376786,2019-04-12 16:47:12,Delegate,cosmosvaloper1wp9jne5t3e4au7u8gfep90g59j0qdhpeqvlg7n,Newroad Network,"50,000.99"
+,,,,Delegate,cosmosvaloper1sd4tl9aljmmezzudugs7zlaya7pg2895ws8tfs,InfStones,"50,000.50"
+,,,,Delegate,cosmosvaloper1urtpxwfuu8k57aqt0h5zhsvmjt4m2mmdr0juzg,konosuba,"36,340.53"
+,,,,Delegate,cosmosvaloper1w0494h0l4mneaq7ajkrcjvn73m2n04l87j2nst,heaven,"25,000.50"
+,,,,Delegate,cosmosvaloper1uxh465053nq3at4dn0jywgwq3s9sme3la3drx6,Bison Trails,"18,050.00"
+,,,,Delegate,cosmosvaloper13sduv92y3xdhy3rpmhakrc3v7t37e7ps9l0kpv,nylira.net,"16,529.54"
+,,,,Delegate,cosmosvaloper1tr5var87ga3fyy9d0r76uurpmkfm05rg37xacn,SpaceTimeContinuum,"12,000.50"
+,965247D3D43592DB17A082FE97350734FB1F90CA4CACFCA846A2C5D4ACD6EB8F,376791,2019-04-12 16:47:46,Delegate,cosmosvaloper1lktjhnzkpkz3ehrg8psvmwhafg56kfss3q3t8m,Umbrella,"6,188.10"
+,,,,Delegate,cosmosvaloper1tflk30mq5vgqjdly92kkhhq3raev2hnz6eete3,Everstake,"5,000.95"
+,,,,Delegate,cosmosvaloper1pexrxk6s9aznl8ap2g8jr87ktc3a7dd8xf0etj,CosmosOne,"5,000.50"
+,,,,Delegate,cosmosvaloper1c5n3z6ju8e07pqmmxcn4hkqn69d8kmvq5nxnxa,anonym.ninja,"4,364.00"
+,,,,Delegate,cosmosvaloper1zqgheeawp7cmqk27dgyctd80rd8ryhqs6la9wc,melea.xyz,"3,125.38"
+,,,,Delegate,cosmosvaloper1zp6kg7qlmztyw2km2af4z5ruz5vn04cp9npe79,piggy-coin.com,"3,004.75"
+,,,,Delegate,cosmosvaloper1ylz6tqpgz0flpl6h5szmj6mmzyr598rqu936th,Bajun,"1,549.50"
+,95F0F9FFCDF03513D713397F3F9CA16A2D3D4E0D7F3F34952CED04B31C046186,376797,2019-04-12 16:48:28,Delegate,cosmosvaloper1rl23sesp9qc7j9cmntl75v3uu4zetjxnuqskea,kreios,502.81045
+,,,,Delegate,cosmosvaloper1qa8jpt4kuqq73vgen2w7julkelgursygqx4y69,suyuuuuuuu,101.45
+,,,,Delegate,cosmosvaloper1lc4wdzlvryg7fk9fc39d3yceu56gv4ea4jet3z,My Basement Validator,50.05
+,,,,Delegate,cosmosvaloper1cf9yqlamxgeza4nsn7y08vpkcs7qqjp46k6s3t,ChainPool,50.00005
+,,,,Delegate,cosmosvaloper1f63lrmnn4upu722kxdhw04taxa6w50lnar88dx,darkqueen,50
+,,,,Delegate,cosmosvaloper1wdrypwex63geqswmcy5qynv4w3z3dyef2qmyna,Stakeflow,25.75
+,,,,Delegate,cosmosvaloper18geu56wqva2pmqm6sf6vpqr38pdfpp7j6xmze4,SOLOMINING,7
+,9AFB6B8CD242635908DEA106DFFAB02E052446502DF82E0244321102308FDFF7,376806,2019-04-12 16:49:29,Delegate,cosmosvaloper1vz0clw0mqw5cjvmk38hg6nakkmvwugxrrhjhkg,ghost,1.2498
+,,,,Delegate,cosmosvaloper16gdxm24ht2mxtpz9cma6tr6a6d47x63h65p52c,ColmenaSvQ,1.000999
+,,,,Delegate,cosmosvaloper1mrnrqgl4d5hqsfdcgnjfarjnlk43rs89gyz94x,lino-network,1.0005
+,,,,Delegate,cosmosvaloper1fqzqejwkk898fcslw4z4eeqjzesynvrdfr5hte,commercio.network,1
+,,,,Delegate,cosmosvaloper1wa9zrywwzzwcvarngjq3rrhv6z9gzw4htq3sv3,BTC.Secure,1
+,,,,Delegate,cosmosvaloper1crf28v52ptkygcw07kr79rw8dme7v2m2sy0p0p,Staker Space,0.98
+,,,,Delegate,cosmosvaloper1yvvkkmzh8zs4z4v7gzn0ux8ag0me79ec58pw35,Valid8r,0.975
+,57F2AF52F83B119A8997CFE4293F66957C838B11664D314245ABACE6257F8CF4,376819,2019-04-12 16:50:58,Delegate,cosmosvaloper1fhr7e04ct0zslmkzqt9smakg3sxrdve6ulclj2,Stakin,0.972
+,,,,Delegate,cosmosvaloper12knqu4ecmg0982plzs9m9f5jareh0cvegcw3wu,offline,0.9505
+,,,,Delegate,cosmosvaloper19vgwu99fdawejnedgsfx8dmxuc0z4emj0eaf8p,UBIK Capital (test),0.95
+,,,,Delegate,cosmosvaloper1p650epkdwj0jte6sjc3ep0n3wz6jc9ehh8jutg,.,0.5
+,,,,Delegate,cosmosvaloper1slt7tkd7srlaxnt8vk6uff7j3mc7pk233rs0r5,Dominator,0.5
+,DEDAD4576BB3C989003B2C2FF5332341A6C141C6FC32B091B15A41E190CC4961,1342422,2019-08-07 18:44:52,Undelegate,cosmosvaloper1qa8jpt4kuqq73vgen2w7julkelgursygqx4y69,suyuuuuuuu,101.45
+,,,,Undelegate,cosmosvaloper1ps7dmygt4wm72t8l9kdjetelhggsv8w77mdh33,CosmosPool.org,"58,418.07"
+,,,,Undelegate,cosmosvaloper1pexrxk6s9aznl8ap2g8jr87ktc3a7dd8xf0etj,CosmosOne,"5,000.00"
+,,,,Undelegate,cosmosvaloper1p650epkdwj0jte6sjc3ep0n3wz6jc9ehh8jutg,.,0.5
+,,,,Undelegate,cosmosvaloper1zp6kg7qlmztyw2km2af4z5ruz5vn04cp9npe79,piggy-coin.com,"3,004.45"
+,,,,Undelegate,cosmosvaloper1rl23sesp9qc7j9cmntl75v3uu4zetjxnuqskea,kreios,502.81045
+,,,,Undelegate,cosmosvaloper1yvvkkmzh8zs4z4v7gzn0ux8ag0me79ec58pw35,Valid8r,0.975
+,CFA1ED0B7F6E51A90734647A811EC8F5F8A2798C46F334550F56814912454BEF,3179845,2020-08-30 13:49:06,Redelegate,cosmosvaloper1w0330zv7quttes76vmdhda3tnz045uqs37wfx0,Mythos,"234,395.56"

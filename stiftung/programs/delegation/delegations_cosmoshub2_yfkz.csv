@@ -1,0 +1,49 @@
+**yfkz,,,,,,,
+,,,,,,,
+Chain ID,TxHash,Height,Time,Type,Validator Address,Name,Amount ATOM
+cosmoshub-2,504912282752E3BEF10EA4CEB4281FFDBF0856281156D4F04A34341460E873C9,1416427,2019-08-13 17:28:51,Delegate,cosmosvaloper1sxx9mszve0gaedz5ld7qdkjkfv8z992ax69k08,validator.network,"300,000.00"
+,,,,Delegate,cosmosvaloper14kn0kk33szpwus9nh8n87fjel8djx0y070ymmj,Forbole,"300,000.00"
+,,,,Delegate,cosmosvaloper1fqzqejwkk898fcslw4z4eeqjzesynvrdfr5hte,commercio.network,"300,000.00"
+,,,,Delegate,cosmosvaloper1clpqr4nrk4khgkxj78fcwwh6dl3uw4epsluffn,Cosmostation,"300,000.00"
+,,,,Delegate,cosmosvaloper1rwh0cxa72d3yle3r4l8gd7vyphrmjy2kpe4x72,pe4x72,"300,000.00"
+,,,,Delegate,cosmosvaloper1jlr62guqwrwkdt4m3y00zh2rrsamhjf9num5xr,StakeWithUs,"300,000.00"
+,,,,Delegate,cosmosvaloper15r4tc0m6hc7z8drq3dzlrtcs6rq2q9l2nvwher,DragonStake,"300,000.00"
+,4A4F45C3349F8601B8BF095EFE77490BC501ED4DAC6801BF8B985CE094C17E41,1416459,2019-08-13 17:32:33,Delegate,cosmosvaloper10e4vsut6suau8tk9m6dnrm0slgd6npe3jx5xpv,B-Harvest,"300,000.00"
+,,,,Delegate,cosmosvaloper1hjct6q7npsspsg3dgvzk3sdf89spmlpfdn6m9d,Figment,"300,000.00"
+,,,,Delegate,cosmosvaloper1j0vaeh27t4rll7zhmarwcuq8xtrmvqhudrgcky,Chainflow,"300,000.00"
+,,,,Delegate,cosmosvaloper1ehkfl7palwrh6w2hhr2yfrgrq8jetgucudztfe,KalpaTech,"300,000.00"
+,,,,Delegate,cosmosvaloper1x88j7vp2xnw3zec8ur3g4waxycyz7m0mahdv3p,Staking Facilities,"300,000.00"
+,,,,Delegate,cosmosvaloper1zqgheeawp7cmqk27dgyctd80rd8ryhqs6la9wc,melea.xyz,"300,000.00"
+,,,,Delegate,cosmosvaloper1ssm0d433seakyak8kcf93yefhknjleeds4y3em,IRISnet-Bianjie,"300,000.00"
+,C5CD0B9F30C0D7431046678B07B1794AE4FB3221F87E29FABCFCDEFCEB6A911E,1416487,2019-08-13 17:35:47,Delegate,cosmosvaloper1kgddca7qj96z0qcxr2c45z73cfl0c75p7f3s2e,Chainlayer,"300,000.00"
+,,,,Delegate,cosmosvaloper15urq2dtp9qce4fyc85m6upwm9xul3049e02707,Chorus One,"300,000.00"
+,,,,Delegate,cosmosvaloper1pjmngrwcsatsuyy8m3qrunaun67sr9x7z5r2qs,Cypher Core,"100,000.00"
+,,,,Delegate,cosmosvaloper19j2hd230c3hw6ds843yu8akc0xgvdvyuz9v02v,syncnode,"100,000.00"
+,,,,Delegate,cosmosvaloper1e0plfg475phrsvrlzw8gwppeva0zk5yg9fgg8c,Easy 2 Stake,100000
+,,,,Delegate,cosmosvaloper1000ya26q2cmh399q4c5aaacd9lmmdqp90kw2jn,Staking Fund,100000
+,,,,Delegate,cosmosvaloper1d0aup392g3enru7eash83sedqclaxvp7fzh6gk,Stir,100000
+,D41E5DA8FCCA590FABF76D53D4E2DC6415E624B36A3A1AF6A70703DEF7EFCD46,1416501,2019-08-13 17:37:24,Delegate,cosmosvaloper1fhr7e04ct0zslmkzqt9smakg3sxrdve6ulclj2,Stakin,"100,000.00"
+,,,,Delegate,cosmosvaloper1uutuwrwt3z2a5z8z3uasml3rftlpmu25aga5c6,DelegaNetworks,"100,000.00"
+,,,,Delegate,cosmosvaloper1wtv0kp6ydt03edd8kyr5arr4f3yc52vp3u2x3u,kytzu,"100,000.00"
+,,,,Delegate,cosmosvaloper1s05va5d09xlq3et8mapsesqh6r5lqy7mkhwshm,Wetez,"100,000.00"
+,,,,Delegate,cosmosvaloper17mggn4znyeyg25wd7498qxl7r2jhgue8u4qjcq,01node,"100,000.00"
+,,,,Delegate,cosmosvaloper1p650epkdwj0jte6sjc3ep0n3wz6jc9ehh8jutg,.,"100,000.00"
+,,,,Delegate,cosmosvaloper102ruvpv2srmunfffxavttxnhezln6fnc54at8c,Ztake.org,"100,000.00"
+,A5D5F33546649A45ACCA192DCF121300B980A33C5D1F8C262D73F3AA184B10F6,1416511,2019-08-13 17:38:33,Delegate,cosmosvaloper1wdrypwex63geqswmcy5qynv4w3z3dyef2qmyna,Stakeflow,100000
+,,,,Delegate,cosmosvaloper124maqmcqv8tquy764ktz7cu0gxnzfw54n3vww8,SimplyStaking,100000
+,,,,Delegate,cosmosvaloper132juzk0gdmwuxvx4phug7m3ymyatxlh9734g4w,P2P,100000
+,,,,Delegate,cosmosvaloper1wp9jne5t3e4au7u8gfep90g59j0qdhpeqvlg7n,Newroad Network,"33,000.00"
+,,,,Delegate,cosmosvaloper1ttfytaf43nkytzp8hkfjfgjc693ky4t3y2n2ku,StarCluster,"33,000.00"
+,,,,Delegate,cosmosvaloper19kwwdw0j64xhrmgkz49l0lmu5uyujjayxakwsn,Firmamint,"33,000.00"
+,,,,Delegate,cosmosvaloper1ul2me6vukg2vac2p6ltxmqlaa7jywdgt8q76ag,HyperblocksPro,"33,000.00"
+,0A5F61BD92B5014B8DC881157D8DC4F65A3CD18B8D605519D54D109715FBE634,1416524,2019-08-13 17:40:03,Delegate,cosmosvaloper1r50v53ua3mgfczlgf6jclycx2edcsaaftfjzs6,SIGN Capital,33000
+,,,,Delegate,cosmosvaloper15jlcxs57cku65nrve3hfjlmcr8kaavxcn30mz2,Certify Network,33000
+,,,,Delegate,cosmosvaloper1slt7tkd7srlaxnt8vk6uff7j3mc7pk233rs0r5,Dominator,33000
+,,,,Delegate,cosmosvaloper1ey69r37gfxvxg62sh4r0ktpuc46pzjrm873ae8,Sikka,"1,917.14"
+,BBC1B37A69DB4C9306BBAA65C5D9C3214095E8B3928C9D0CBA4C01E809B36DA3,1424151,2019-08-14 8:21:11,Delegate,cosmosvaloper1x065cjlgejk2p2la0029akfvdy52gtq9mm58ta,MathWallet,"100,000.00"
+,,,,Delegate,cosmosvaloper12w6tynmjzq4l8zdla3v4x0jt8lt4rcz5gk7zg2,Huobi-1,"100,000.00"
+,,,,Delegate,cosmosvaloper1wauge4px27c257nfn4k3329wteddqw7gs3n66u,DappPub,"100,000.00"
+,,,,Delegate,cosmosvaloper1ff0dw8kawsnxkrgj7p65kvw7jxxakyf8n583gx,Compass,"100,000.00"
+,,,,Delegate,cosmosvaloper1hvsdf03tl6w5pnfvfv5g8uphjd4wfw2h4gvnl7,chain-node,"100,000.00"
+,,,,Delegate,cosmosvaloper1jxv0u20scum4trha72c7ltfgfqef6nsch7q6cu,Ping,"100,000.00"
+,840DF5D9E7654D2F0CCC64BAA7FB0ECACAB79B5552663E189BC2004E8ED1A804,1626069,2019-08-30 13:50:25,Delegate,cosmosvaloper1de7qx00pz2j6gn9k88ntxxylelkazfk3g8fgh9,Cosmic Validator,"33,000.00"

@@ -1,0 +1,76 @@
+# Research
+
+The topics listed here are not exhaustive, but provide an idea of what we're interested in.
+
+- Hardware
+    - Open source architectures
+    - Secure processors
+    - Fault tolerance
+    - Wireless networking
+- Cryptography
+    - Faster and safer signature schemes
+    - Pairing-based crypto
+    - Zero Knowledge Proofs (Bulletproofs, SNARKs, STARKs, etc.)
+    - Post-quantum crypto
+    - Cryptanalysis
+    - Novel constructions and applications
+- Databases
+    - Authenticated data-structures
+    - Efficient store and retrieval of authenticated data
+    - Merkle trees, sets, etc.
+    - Merkle datastores
+    - Accumulators
+- P2P and Networking
+    - Gossip mechanisms
+    - Formalization of ad-hoc protocols
+    - Connectivity patterns
+    - DoS mitigation
+    - Secure networking
+    - Privacy preserving connections
+    - Mesh networks
+    - Provable peer behaviour
+- Consensus
+    - Scaling consensus protocols to thousands of nodes
+    - Application specific interactions and optimizations
+    - Performance improvements 
+    - Relationship between consensus protocol and network layer
+    - Grand Unified Theory of Consensus
+- Light-Clients
+    - Security analysis
+    - Performance improvements
+    - Client-side state machines
+- Scalability
+    - Sharding
+    - Asynchronous protocols
+    - Parallelization
+    - Cryptographic techniques
+- Formal Methods
+    - Model checkers
+    - Theorem provers
+    - Correctness of real software
+    - Correct-by-construction protocol design
+    - Modeling byzantine faults and economic behaviour
+- Programming Languages
+    - Verifiability, accessibility, security
+    - Virtual Machine design
+    - Domain specific languages for non-technical professionals
+    - State Machines
+- Mechanism Design
+    - Proof of Stake incentive compatibility
+    - Decentralization
+    - Token economics
+    - Fee markets and mechanisms
+    - Digital property rights
+    - Governance structures
+    - Voting theory
+    - Governance structures
+    - Analyses of security & cryptoeconomics for complex multi-chain topologies, e.g. shielded pools, cross-chain validation
+- Application Security
+    - Secure language subsets
+    - Fuzz testing and simulations
+    - Code review and security audits
+- User Experience
+    - Novel methods for signing transactions securely
+    - Improvements to private key security
+    - Techniques for integrating existing commonly used infrastructure
+    - Cryptographic techniques which could improve accessibility and security
