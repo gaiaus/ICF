@@ -35,7 +35,7 @@ A short history of the Interchain Foundation and key personnel changes to its go
 ### [Founder](https://github.com/gaiaus/ICF/tree/main/stiftung#founder)
 A Swiss foundation has no owners or shareholders, but there is a founder. Depending on how a founder's/founders' rights are enshrined in the foundation charter and articles of association, a founder maintains some exclusive powers. 
 
-### [Legal Seat/Domecile](https://github.com/gaiaus/ICF/tree/main/stiftung#legal-seatdomecile)
+### [Legal Domecile](https://github.com/gaiaus/ICF/tree/main/stiftung#legal-domecile)
 
 ### [Legal Form](https://github.com/gaiaus/ICF/tree/main/stiftung#legal-form)
 
