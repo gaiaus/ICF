@@ -1,4 +1,21 @@
-# Notes on 0xe825363f3bedabc95b2a9d42dbc73ec7b82b57d3
+# ICF Ethereum Wallet
+
+[0xe825363f3bedabc95b2a9d42dbc73ec7b82b57d3](https://etherscan.io/address/0xe825363f3bedabc95b2a9d42dbc73ec7b82b57d3)
+
+ICF's ETH is managed via a smart-contract wallet. 
+
+* Reported ETH balance as per 2022 ICF annual report: **15% of 304M**
+* 304,000,000* 0,15 = **$45.6M**
+* All time total balance: **246,891.325 ETH**
+* Current balance: **38,687.260983646059253983 ETH**
+	- 246,891.325 - 38,687.260983646059253983 = **208,204.064 ETH OUT**
+
+##### [ICF ETH transactions 2017 - 2023](https://github.com/gaiaus/ICF/tree/main/stiftung/finances/treasury/ETH)
+
+<img width="1343" alt="Screenshot 2023-10-03 at 10 37 48 AM" src="https://github.com/MinYan10/ICF/assets/146326929/4fe4d465-4d51-4067-ae90-f2ac22e26d4a">
+
+
+Notes on 0xe825363f3bedabc95b2a9d42dbc73ec7b82b57d3
 
 [ICF Ethereum Wallet](https://github.com/cosmos/mainnet/blob/70d6682e987b81ec6cd73405e40aaecbf9f51912/accounts/public/eth_main.go): [0xe825363f3bedabc95b2a9d42dbc73ec7b82b57d3](https://etherscan.io/address/0xe825363f3bedabc95b2a9d42dbc73ec7b82b57d3)
 
