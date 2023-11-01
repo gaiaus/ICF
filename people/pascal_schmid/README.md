@@ -23,7 +23,7 @@ Baar, Switzerland
   05/30 - 12/11/2022
 
 - Member, Foundation Council, [**Interchain
-  Foundation**](https://interchain.io/), 05/31/2018 -
+  Foundation**](https://interchain.io/), 05/31/2018 - 05/21/2021
 
 - Board Member, [**Binance
   AG**](https://github.com/MinYan10/ICF/blob/main/people/pascal_schmid/Binance_AG.pdf), 07/12/2018 -
