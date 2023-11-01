@@ -21,5 +21,5 @@ Founder/Organizer, Ethereum Meetup Korea, 2014
 
 ## Education
 
-Sungkyungkwan University
+Sungkyunkwan University
 Bachelor of Arts, Business Administration 
