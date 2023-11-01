@@ -43,7 +43,7 @@ Due to community discontent, as captured in this [06/2022 Report from Notional, 
 1** Delegation Policy](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/cycle1_policy.pdf)
 
 [**Cycle
-1** Delegation List](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/cycle1_delegations.pdf)
+1** Delegation List](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/Delegations%20Cycle%201.pdf)
 
 #### Cycle 2
 
