@@ -33,9 +33,9 @@ The Foundation issued a [call](https://twitter.com/interchain_io/status/11371032
 
 Due to community discontent, as captured in this [06/2022 Report from Notional, Hypha Coop, and "Moonboy"](https://thoracic-boron-678.notion.site/ICF-Delegation-Report-b4b8c62295564990800fb1226d585e4b), policy was revised in fall/winter of 2022. The Foundation was allegedly delegating to validators who were relatively low contributors, and many were found to be ["dumping"](https://forum.cosmos.network/t/icf-delegation-recipients-who-sell-all/6739) token. 
 
-* [ICF delegations cosmoshub-1, from 2-3 MultiSig **cstv](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/ICF%20Delegations%20__cosmoshub1_cstv.csv)
-* [ICF delegations cosmoshub-2, from 3-5 MultiSig **yfkz](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/ICF%20Delegations__cosmoshub2_yfkz.numbers)
-* [Snapshot of ICF delegations in 2022, prior to revised policy.](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/2022_delegations.csv).
+* [ICF delegations cosmoshub-1, from 2-3 MultiSig **cstv](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/delegations_cosmoshub1_cstv.csv)
+* [ICF delegations cosmoshub-2, from 3-5 MultiSig **yfkz](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/delegations_cosmoshub2_yfkz.csv)
+* [Snapshot of ICF delegations in 2022, prior to revised policy.](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/delegations_2022.csv).
 
 #### Cycle 1
 
