@@ -141,7 +141,7 @@ Please also see:
 * [`legal`](https://github.com/gaiaus/ICF/tree/main/stiftung/legal)
 
 ### Founder 
-The sole founder of the Interchain Foundation is [Seunghwan "Ash" Han](https://github.com/gaiaus/ICF/blob/main/people/ash_han/ICF%20Founder.pdf). 
+The sole founder of the Interchain Foundation is [Seunghwan "Ash" Han](https://github.com/gaiaus/ICF/blob/main/people/ash_han/ICF%20Founder%20Ash%20Han.pdf). 
 
 Ash Han created the foundation with a donation of CHF 50,000.00 in cash to create the endowment. His commitment to the Cosmos ecosystem traces back to 2014. His journey began as an early contracted advisor at All in Bits, Inc., where he made substantial contributions. Beyond inaugural provisioning of foundation funds, Ash played a crucial role in structuring the foundation finances, and organizing the fundraiser for the endowment. As an early contributor, he was instrumental in shaping early Cosmos structures and actively championed the growth of the Cosmos ecosystem, with particular focus on stakeholder adoption in South Korea. His diverse contributions were noted in the [Cosmos Whitepaper](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md).
 
