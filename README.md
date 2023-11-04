@@ -25,7 +25,9 @@ The aim of this initiative is to close the mandate to management gap.
 # Table of Contents
 
 # [Stiftung Guide](https://github.com/gaiaus/ICF/blob/main/stiftung/README.md)
-Start here. Read [this](https://github.com/gaiaus/ICF/blob/main/stiftung/README.md) first.  
+**Start here. Read [this](https://github.com/gaiaus/ICF/blob/main/stiftung/README.md) first**.  
+
+[`stiftung`](https://github.com/gaiaus/ICF/tree/main/stiftung)
 
 ## [Foundation Timeline](https://github.com/gaiaus/ICF/tree/main/stiftung#timeline)
 A short history of the Interchain Foundation and key personnel changes to its governing bodies.  
