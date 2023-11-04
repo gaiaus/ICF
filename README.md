@@ -32,6 +32,7 @@ The aim of this initiative is to close the mandate to management gap.
 ## [Foundation Timeline](https://github.com/gaiaus/ICF/tree/main/stiftung#timeline)
 A short history of the Interchain Foundation and key personnel changes to its governing bodies.  
 
+[`stiftung/timeline`](https://github.com/gaiaus/ICF/tree/main/stiftung#timeline)
 
 ## [Legal Framework](https://github.com/gaiaus/ICF/tree/main/stiftung#legal-establishment--law)
 [The Swiss Civil Code, Zivilgesetzbuch (ZGB)](https://github.com/gaiaus/ICF/blob/main/stiftung/legal/ZGB_swiss_legal_code.md) provides the legal framework for foundations in Switzerland. According to Art. 80 ZGB the formation of a foundation requires assets being endowed for a specific purpose.
