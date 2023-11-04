@@ -9,7 +9,9 @@
 
 ## Introduction
 
-An authoritative guide; presenting the history, incorporation, organization, governance and operations of Interchain Stiftung, AG and GmbH. 
+An authoritative presentation on the history, incorporation, organization, governance and operations of Interchain Stiftung, AG and GmbH. 
+
+There are two guides in this repo: [`stiftung`](https://github.com/gaiaus/ICF/tree/main/stiftung) and [`aktiengesellschaft`](https://github.com/gaiaus/ICF/tree/main/aktiengesellschaft%20)
 
 ## Objective
 “*Sunlight is said to be the best of disinfectants*.”
