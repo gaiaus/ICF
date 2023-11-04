@@ -11,7 +11,7 @@
 
 An authoritative presentation on the history, incorporation, organization, governance and operations of Interchain Stiftung, AG and GmbH. 
 
-There are two guides in this repo: [`stiftung`](https://github.com/gaiaus/ICF/tree/main/stiftung) and [`aktiengesellschaft`](https://github.com/gaiaus/ICF/tree/main/aktiengesellschaft%20)
+There are two guides in this repo: [`stiftung`](https://github.com/gaiaus/ICF/blob/main/stiftung/README.md) and [`aktiengesellschaft`](https://github.com/gaiaus/ICF/blob/main/aktiengesellschaft%20/README.md)
 
 ## Objective
 “*Sunlight is said to be the best of disinfectants*.”
