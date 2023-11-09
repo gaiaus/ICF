@@ -11,7 +11,7 @@
 *why receive & send funds to new ICF Multisig?*
 
 
-## RECIEVE ATOM
+## RECEIVE ATOM
 
 - [x] cosmos1unc788q8md2jymsns24eyhua58palg5kc7cstv
 
