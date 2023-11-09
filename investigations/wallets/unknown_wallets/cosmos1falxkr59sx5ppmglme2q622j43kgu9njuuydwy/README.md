@@ -1,7 +1,8 @@
 [cosmos1falxkr59sx5ppmglme2q622j43kgu9njuuydwy](https://dev.mintscan.io/cosmos/account/cosmos1falxkr59sx5ppmglme2q622j43kgu9njuuydwy)
 
 **RECEIVES FROM**
-* **cosmos1fmhgulwxdlz5t824hvevasyalzdjnnv5tr8n8n**
+* **cosmos1fmhgulwxdlz5t824hvevasyalzdjnnv5tr8n8n** ([AiB SENT **631,935.0500 ATOM** to **8n8n on 12/28/2021](https://dev.mintscan.io/cosmos/txs/0C8F0C1E99DF57009AAB982C7D85CD68436C9BA8AF2ACE1EB16E8B889656EB6F?height=8867534)
+Is **8n8n an early AiB contributor?)
 * cosmos1xxkueklal9vejv9unqu80w9vptyepfa95pd53u
 * cosmos1vfh5pgskq8m2zfqc0hfh2clvewj3r7dh72k7ge
 * cosmos1xdlk678y49anu69mdfc8xjx7h432flv2ep3rmk
