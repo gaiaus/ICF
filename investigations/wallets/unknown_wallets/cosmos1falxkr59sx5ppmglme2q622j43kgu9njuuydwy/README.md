@@ -1,15 +1,16 @@
 [cosmos1falxkr59sx5ppmglme2q622j43kgu9njuuydwy](https://dev.mintscan.io/cosmos/account/cosmos1falxkr59sx5ppmglme2q622j43kgu9njuuydwy)
 
-| Receive      | [**cosmos1fmhgulwxdlz5t824hvevasyalzdjnnv5tr8n8n**]
-| Receive      | [cosmos1xxkueklal9vejv9unqu80w9vptyepfa95pd53u]
-| Receive      | [cosmos1vfh5pgskq8m2zfqc0hfh2clvewj3r7dh72k7ge]
-| Receive      | [cosmos1xdlk678y49anu69mdfc8xjx7h432flv2ep3rmk]
-| Receive      | [cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd]
-| Receive      | [cosmos18prjkt7uxt7l7sk4dxk7eukanxxctl2ch8dcm8]
-| Receive      | [cosmos1mujqa52fnxhhpjegx6kr8pgjqqw3jyk43j6eyv]
+**RECEIVES FROM**
+* **cosmos1fmhgulwxdlz5t824hvevasyalzdjnnv5tr8n8n**
+* cosmos1xxkueklal9vejv9unqu80w9vptyepfa95pd53u
+* cosmos1vfh5pgskq8m2zfqc0hfh2clvewj3r7dh72k7ge
+* cosmos1xdlk678y49anu69mdfc8xjx7h432flv2ep3rmk
+* cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd
+* cosmos18prjkt7uxt7l7sk4dxk7eukanxxctl2ch8dcm8
+* cosmos1mujqa52fnxhhpjegx6kr8pgjqqw3jyk43j6eyv
 
-
-| Send         | [cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5]
+**SENDS TO**
+* cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5
 
 
 
