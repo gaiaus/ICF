@@ -6,9 +6,9 @@ is **8n8n an early AiB contributor?)
 * cosmos1xxkueklal9vejv9unqu80w9vptyepfa95pd53u
 * cosmos1vfh5pgskq8m2zfqc0hfh2clvewj3r7dh72k7ge
 * cosmos1xdlk678y49anu69mdfc8xjx7h432flv2ep3rmk
-* cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd
-* cosmos18prjkt7uxt7l7sk4dxk7eukanxxctl2ch8dcm8
-* cosmos1mujqa52fnxhhpjegx6kr8pgjqqw3jyk43j6eyv
+* cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd (Coinbase)
+* cosmos18prjkt7uxt7l7sk4dxk7eukanxxctl2ch8dcm8 (ICF single sig?)
+* cosmos1mujqa52fnxhhpjegx6kr8pgjqqw3jyk43j6eyv (Informal?)
 
 **SENDS TO**
 * cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5
