@@ -88,8 +88,7 @@ cosmos16k579jk6yt2cwmqx9dz5xvq9fug2tekv6g34pl (Informal Systems account address)
 [cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd](https://dev.mintscan.io/cosmos/account/cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd)
 *Coinbase exchange?* 
 
-   - Snapshot of [**zdgd from 05/2022](https://gist.github.com/moul/29c0df4055df019a91440521a02dc23e)
-   - **zdgd also seen in AiB liquidations
+[cosmos1l0znsvddllw9knha3yx2svnlxny676d8ns7uys](https://dev.mintscan.io/cosmos/account/cosmos1l0znsvddllw9knha3yx2svnlxny676d8ns7uys)   
 
 
 ## Exit wallets?
