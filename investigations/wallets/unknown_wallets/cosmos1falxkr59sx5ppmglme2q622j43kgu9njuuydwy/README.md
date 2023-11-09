@@ -11,7 +11,7 @@ is **8n8n an early AiB contributor?)
 * cosmos1mujqa52fnxhhpjegx6kr8pgjqqw3jyk43j6eyv (Informal?)
 
 **SENDS TO**
-* cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5
+* cosmos1nm0rrq86ucezaf8uj35pq9fpwr5r82cl8sc7p5 (Kraken?)
 
 
 
