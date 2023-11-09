@@ -3,11 +3,12 @@
 **RECEIVES ATOM FROM**: 
 * cosmos18prjkt7uxt7l7sk4dxk7eukanxxctl2ch8dcm8
 * cosmos1unc788q8md2jymsns24eyhua58palg5kc7cstv
+* [cosmos1sufkm72dw7ua9crpfhhp0dqpyuggtlhdse98e7](https://dev.mintscan.io/cosmos/txs/8199BF833C587ABA476E263744D085BA83220C9ADCE85D8443037219B751ADC4?height=16426440)
 
 **SENDS TO**:
 * cosmos1rayje3vfmwg9az26hdh3d7dxrjks939w3x8c65
 * cosmos1sufkm72dw7ua9crpfhhp0dqpyuggtlhdse98e7
-*why send funds to new ICF Multisig?*
+*why receive & send funds to new ICF Multisig?*
 
 
 ## RECIEVE ATOM
