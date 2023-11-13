@@ -3,10 +3,10 @@
 
 **RECEIVES FROM**:
 
-[cosmos1fmhgulwxdlz5t824hvevasyalzdjnnv5tr8n8n](https://dev.mintscan.io/cosmos/account/cosmos1fmhgulwxdlz5t824hvevasyalzdjnnv5tr8n8n) (np Informal?)
+[cosmos1fmhgulwxdlz5t824hvevasyalzdjnnv5tr8n8n](https://dev.mintscan.io/cosmos/account/cosmos1fmhgulwxdlz5t824hvevasyalzdjnnv5tr8n8n) (Ethan Buchman?)
 * stakes 534,433.000352 ATOM with Informal
 * capture `delegate`, `get reward`, `ibc transfer`
-* received 631,935.050000 ATOM from [cosmos15hmqrc245kryaehxlch7scl9d9znxa58qkpjet](
+* received 631,935.050000 ATOM from [cosmos15hmqrc245kryaehxlch7scl9d9znxa58qkpjet](https://dev.mintscan.io/cosmos/txs/0C8F0C1E99DF57009AAB982C7D85CD68436C9BA8AF2ACE1EB16E8B889656EB6F?height=8867534)
 
 [cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd](https://dev.mintscan.io/cosmos/account/cosmos1t5u0jfg3ljsjrh2m9e47d4ny2hea7eehxrzdgd) (Coinbase)
 
