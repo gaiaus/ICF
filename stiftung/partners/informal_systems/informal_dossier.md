@@ -96,7 +96,7 @@ While Arianne is COO of Informal Systems, she is also Managing Director of ICF B
 
 - [Adi Seredinschi](https://www.linkedin.com/in/seredinschi/?originalSubdomain=ch), Research Engineer, *2020*
 
-- [Anton Kaliaev](https://www.linkedin.com/in/melekes/), *2020*
+- [Anton Kaliaev](https://www.linkedin.com/in/melekes/), *2020* *2023* (Has returned to Informal Systems following time at Parity Tech)
 
 - [Lauren Gallinaro](https://www.linkedin.com/in/lgallinaro/), Software Engineer, *2023*
 
