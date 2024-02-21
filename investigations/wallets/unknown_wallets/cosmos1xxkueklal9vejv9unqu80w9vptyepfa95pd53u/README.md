@@ -12,3 +12,4 @@ Multiple sources online indicate that cosmos1xxkueklal9vejv9unqu80w9vptyepfa95pd
 
 * https://www.cryptonative.ch/cosmos-atom-internet-of-blockchains-3-generation-blockchain/
 * https://github.com/VHRanger/tether/blob/583da737d8c17d672a0ee5123a5e4c1d42fb555f/data/known_addresses.json#L264
+* https://clankapp.com/tx/atom/9bd58acb5fe03e724e2796878a3cb260649d1861b7773e9f9d9a52771fc9bbd5?uuid=1347909568
