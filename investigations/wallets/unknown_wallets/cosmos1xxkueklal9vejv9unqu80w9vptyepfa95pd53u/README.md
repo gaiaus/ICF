@@ -7,3 +7,8 @@
 $ATOM Price on 12/13/2021: $22.33
 
 1,620,395.073971*22.33 = **$36,183,422.001**
+
+Multiple sources online indicate that cosmos1xxkueklal9vejv9unqu80w9vptyepfa95pd53u is a binance wallet:
+
+* https://www.cryptonative.ch/cosmos-atom-internet-of-blockchains-3-generation-blockchain/
+* https://github.com/VHRanger/tether/blob/583da737d8c17d672a0ee5123a5e4c1d42fb555f/data/known_addresses.json#L264
