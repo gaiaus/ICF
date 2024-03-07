@@ -4,7 +4,7 @@ Delegates 534,433.000356 to Informal (cosmosvaloper16k579jk6yt2cwmqx9dz5xvq9fug2
 
 [AiB SENT **631,935.0500 ATOM** to **8n8n on 12/28/2021](https://dev.mintscan.io/cosmos/txs/0C8F0C1E99DF57009AAB982C7D85CD68436C9BA8AF2ACE1EB16E8B889656EB6F?height=8867534)
 
-Is **8n8n an early AiB contributor?
+**8n8n is Ethan Buchman. 
 
 | Tx Type      | Address                                       |Amount ATOM        | Date                | 
 | :---         | :---                                          | :---              |:---                 |
