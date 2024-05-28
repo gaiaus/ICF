@@ -109,7 +109,7 @@ According to [Interchain GmbH Articles of Association](https://github.com/gaiaus
 [^10]: [Interchain GmbH Articles of Association](https://github.com/gaiaus/ICF/blob/main/aktiengesellschaft%20/GmbH/GmbH%20Articles%20of%20Association.pdf), pp.1
 
 > The company shall have one or several managing directors. If several managing directors have been appointed, two managing directors or one managing director acting jointly  with a person
-> vested with general commercial power of representation shall represent the company. If only one managing director is appointed, he shall repre- sent the company acting alone[^11].
+> vested with general commercial power of representation shall represent the company. If only one managing director is appointed, he shall represent the company acting alone[^11].
 
 [^11]: [Interchain GmbH Articles of Association](https://github.com/gaiaus/ICF/blob/main/aktiengesellschaft%20/GmbH/GmbH%20Articles%20of%20Association.pdf), pp.2
 
