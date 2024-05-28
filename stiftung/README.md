@@ -333,15 +333,9 @@ The founding Foundation Council Members were: Jae Kwon (President), Ethan H. Buc
 For additional recommendations on regulating conflicts of interest, please see [`conflicts of interest`](https://github.com/gaiaus/ICF/blob/main/stiftung/accountability/governance/conflict_of_interests.md).
 
 #### Current Foundation Council Members (Current)
-- President, [Brian Fabian Crain](https://github.com/gaiaus/ICF/tree/main/people/brian_fabian_crain/README.md)
- 	 - Founder/CEO, [Chorus One
-  AG](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/Chorus%20One%20AG%20Registration.pdf), leading POS validator and member of [LIDO DAO](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/chorusone_dossier.md).
- 	 - Co-Founder, [Chorus Ventures](https://github.com/gaiaus/ICF/tree/main/people/brian_fabian_crain/README.md)
- 	 - Managing Director, [Contra Capital
-  GmbH](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/Contra%20Capital%20GmbH.pdf)
-  	- Managing Director, [Epicenter Media
-  GmbH](https://firmeneintrag.creditreform.de/10997/2012866583/EPICENTER_MEDIA_GMBH)
- 
+
+- President, **UNKNOWN**
+
 - Vice President, [Ethan Buchman](https://github.com/gaiaus/ICF/tree/main/people/ethan_buchman)
  	 - Founder/CEO, [Informal
   Systems](https://github.com/gaiaus/ICF/blob/main/stiftung/partners/informal_systems/informal_dossier.md)
@@ -350,9 +344,21 @@ For additional recommendations on regulating conflicts of interest, please see [
 
 - Member, [Fernando Pedone](https://www.inf.usi.ch/faculty/pedone/)
 
-#### Former Foundation Council Members
+- Member, [Maxime Guillaume Monod](https://www.linkedin.com/in/mmonod/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ch)
+  
+- Member, [Joshua Scott Cincinnati](https://x.com/acityinohio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
-- [Jae Kwon](https://github.com/gaiaus/ICF/tree/main/people/jae_kwon), 03/07/2017 - 05/20/2021
+#### Former Foundation Council Members
+- President, [Brian Fabian Crain](https://github.com/gaiaus/ICF/tree/main/people/brian_fabian_crain/README.md), 03/13/2020 - 05/23/2024
+ 	 - Founder/CEO, [Chorus One
+  AG](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/Chorus%20One%20AG%20Registration.pdf), leading POS validator and member of [LIDO DAO](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/chorusone_dossier.md).
+ 	 - Co-Founder, [Chorus Ventures](https://github.com/gaiaus/ICF/tree/main/people/brian_fabian_crain/README.md)
+ 	 - Managing Director, [Contra Capital
+  GmbH](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/Contra%20Capital%20GmbH.pdf)
+  	- Managing Director, [Epicenter Media
+  GmbH](https://firmeneintrag.creditreform.de/10997/2012866583/EPICENTER_MEDIA_GMBH)
+
+- President, [Jae Kwon](https://github.com/gaiaus/ICF/tree/main/people/jae_kwon), 03/07/2017 - 05/20/2021
 
 - [Guido Schmitz-Krummacher](https://github.com/gaiaus/ICF/blob/main/people/guido_schmitz_krummacher/README.md), 03/07/2017 - 05/28/2018
 
