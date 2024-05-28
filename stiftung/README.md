@@ -119,6 +119,21 @@ No longer BoM Managing Director, Xinhua Zhong[^13]
 * Ethan H. Buchman becoming Vice Chair/Vice President[^14].
 [^14]: https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=1005820006
 
+#### 12/05/2023
+* New Member of the Board, [Maxime Guillaume Monod](https://www.linkedin.com/in/mmonod/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ch)
+* New Member of the Board, [Joshua Scott Cincinnati](https://x.com/acityinohio?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+[Interchain Foundation Annoucement Introducing New FC Members](https://medium.com/the-interchain-foundation/welcoming-new-minds-expanding-the-foundation-council-dc938021dcbd)
+
+#### 05/23/2024
+* [No longer Member of Board/President of the Board, Brian Fabian Crain](https://x.com/crainbf/status/1793670183573393628)
+* At the May 23rd annual Board meeting, the agenda was set as such: 1) election of Sunny Aggarwal as new Member to the Board 2) annual renewal of FC Members to the Board
+  Regarding the election of Sunny Aggarwal, Brian Crain voted **Yes**, one Member **Abstained**, and the remaining Members voted **Against**, 3:1:1
+  Regarding the renewal of Brian Crain as Member, and President/Chair of the Board, Brian was rejected. Brian and Fernando Pedone voted **Yes**; Ethan Buchman, Maxime Monod, Joshua Cincinnati voted **Against**.
+  Brian Crain's removal from the Board took effect immediately, following the Board vote.
+
+   _Note_: The term of office for Members of the Board/Foundation Council is one (1) year. Members can be re-elected indefinitely, unless they choose to resign for reasons established in the Foundation bylaws.
+
 *Sources*:
 * [Interchain Foundation CHE-199.569.367](https://github.com/gaiaus/ICF/blob/main/stiftung/CHE-199.569.367.pdf)
 * [Kanton Zug Commercial Register](https://zg.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-199.569.367#)
