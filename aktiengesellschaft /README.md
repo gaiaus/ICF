@@ -90,6 +90,9 @@ The current Chair of AG and Managing Director of Board of Management is [Maria G
 
 [^8]: https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=1005776425
 
+**05/2024**
+* Alix Keller, "Chief Product Officer" joins Board of Management
+
 ## Interchain GmbH 
 Company Name: Interchain GmbH
 
