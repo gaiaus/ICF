@@ -41,10 +41,10 @@ Ash becomes an advisor at All in Bits, Inc., and Ethan becomes a Co-Founder.
 #### 03/07/2017
 Ash Han creates the Interchain Foundation (ICF)[^1]. Jae Kwon is Chair and Ethan Buchman is Vice Chair.
 [^1]: https://zg.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-199.569.367#
-* Founder, [Seunghwan "Ash" Han](https://github.com/gaiaus/ICF/blob/main/people/ash_han/ICF%20Founder.pdf)
-* Chair of the Board, [Jae Kwon](https://github.com/gaiaus/ICF/blob/main/people/jae_kwon/README.md)
-* Vice Chair of the Board, [Ethan Harrison Buchman](https://github.com/gaiaus/ICF/blob/main/people/ethan_buchman/README.md)
-* Member of the Board, [Guido Schmitz-Krummacher](https://github.com/gaiaus/ICF/blob/main/people/guido_schmitz_krummacher/README.md)
+* Founder, [`Seunghwan "Ash" Han`](https://github.com/gaiaus/ICF/blob/main/people/ash_han/ICF%20Founder.pdf)
+* Chair of the Board, [`Jae Kwon`](https://github.com/gaiaus/ICF/blob/main/people/jae_kwon/README.md)
+* Vice Chair of the Board, [`Ethan Harrison Buchman`](https://github.com/gaiaus/ICF/blob/main/people/ethan_buchman/README.md)
+* Member of the Board, [`Guido Schmitz-Krummacher`](https://github.com/gaiaus/ICF/blob/main/people/guido_schmitz_krummacher/README.md)
 * Auditor: [Mutara Treuhand AG](https://mutara.ch/en/)
 * [**Swiss Commercial Register CHE-199.569.367**](https://github.com/gaiaus/ICF/blob/main/stiftung/CHE-199.569.367.pdf)
 
