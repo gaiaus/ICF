@@ -2,16 +2,16 @@
 
 ### Experience
 
-#### Twist Lab
+#### [Twist Lab](https://twistlab.ch/)
 Founder & CEO
 Sep 2017 - Present 
 Lausanne Area, Switzerland
 
-#### EPFL (École polytechnique fédérale de Lausanne) 
+#### [EPFL (École polytechnique fédérale de Lausanne)](https://www.epfl.ch/en/) 
 Lecturer
 Lausanne, Vaud, Switzerland
 
-#### Swiss Armed Forces 
+#### [Swiss Armed Forces](https://www.vtg.admin.ch/de/berufe) 
 21 yrs 1 mo
 
 Company Commander (Captain)
