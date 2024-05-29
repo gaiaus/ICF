@@ -18,6 +18,7 @@ BA, Mathematics & Political and Social Thought, University of Virginia
   
 #### Socials
 [Twitter @acityinohio](https://x.com/acityinohio)
+
 [Github @acityinohio](https://github.com/acityinohio)
 
 Sources: [https://blockworks.co/author/josh](https://blockworks.co/author/josh)
