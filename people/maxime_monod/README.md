@@ -23,4 +23,4 @@ Platoon Leader (First Lieutenant)
 #### Socials
 
 * [LinkedIn](https://www.linkedin.com/in/mmonod/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ch)
-* [Twitter](https://x.com/i/flow/login?redirect_after_login=%2Fmaximemonod)
+* [Twitter @maximemonod](https://x.com/i/flow/login?redirect_after_login=%2Fmaximemonod)
