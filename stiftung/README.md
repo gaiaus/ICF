@@ -60,7 +60,7 @@ Interchain Foundation (ICF) successfully raises $17 million in [`btc`](https://g
 * [Cosmos whitepaper](https://github.com/cosmos/cosmos/blob/master/WHITEPAPER.md)
 
 #### 05/31/2018
-* [Pascal Schmid](https://github.com/gaiaus/ICF/blob/main/people/pascal_schmid/README.md), new Member of the Board.
+* [`Pascal Schmid`](https://github.com/gaiaus/ICF/blob/main/people/pascal_schmid/README.md), new Member of the Board.
 * Guido Schmitz-Krummacher no longer Member of the Board[^3].
 * [Registry Update](https://github.com/gaiaus/ICF/blob/main/people/pascal_schmid/ICF%20Mutation%2010_03_2017.pdf)
 
@@ -72,7 +72,7 @@ Interchain Foundation (ICF) successfully raises $17 million in [`btc`](https://g
 * [Registry Update](https://github.com/gaiaus/ICF/blob/main/aktiengesellschaft%20/AG%20Baar%20New%20Registration%202019.pdf)
   
 #### 06/18/2020
-New Members of the Board: [Brian Fabian Crain](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/README.md), [Fernando Pedone](https://www.inf.usi.ch/faculty/pedone/)[^4].
+New Members of the Board: [`Brian Fabian Crain`](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/README.md), [Fernando Pedone](https://www.inf.usi.ch/faculty/pedone/)[^4].
 [^4]: https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=1004913700
 
 #### 07/03/2020
@@ -82,7 +82,7 @@ New Managing Directors to Interchain AG Board of Management (BoM): William Bradl
 #### 05/26/2021
 * No longer Chair of the Board, Jae Kwon
 * New Chair of the Board, Ethan Buchman
-* New Member of the Board, [Tess M. Rinearson](https://github.com/gaiaus/ICF/blob/main/people/tess_rinearson/README.md)[^6]
+* New Member of the Board, [`Tess M. Rinearson`](https://github.com/gaiaus/ICF/blob/main/people/tess_rinearson/README.md)[^6]
 [^6]: https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=1005192285
 
 #### 05/28/2021
@@ -98,7 +98,7 @@ No longer Member of the Board, Tess M. Rinearson[^9].
 [^9]: https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=1005542646
 
 #### 12/07/2022
-* New BoM Managing Director: [María Paola Gélvez Gómez](https://github.com/gaiaus/ICF/blob/main/people/mar%C3%ADa_g%C3%B3mez/README.md)
+* New BoM Managing Director: [`María Paola Gélvez Gómez`](https://github.com/gaiaus/ICF/blob/main/people/mar%C3%ADa_g%C3%B3mez/README.md)
 * No longer BoM Managing Director, William Bradley Rennekamp[^10]
 [^10]: https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=1005622011
 
@@ -120,8 +120,8 @@ No longer BoM Managing Director, Xinhua Zhong[^13]
 [^14]: https://www.shab.ch/shabforms/servlet/Search?EID=7&DOCID=1005820006
 
 #### 12/05/2023
-* New Member of the Board, [Maxime Guillaume Monod](https://github.com/gaiaus/ICF/tree/main/people/maxime_monod)
-* New Member of the Board, [Joshua Scott Cincinnati](https://github.com/gaiaus/ICF/tree/main/people/joshua_cincinnati)
+* New Member of the Board, [`Maxime Guillaume Monod`](https://github.com/gaiaus/ICF/tree/main/people/maxime_monod)
+* New Member of the Board, [`Joshua Scott Cincinnati`](https://github.com/gaiaus/ICF/tree/main/people/joshua_cincinnati)
 
 [Interchain Foundation Annoucement Introducing New FC Members](https://medium.com/the-interchain-foundation/welcoming-new-minds-expanding-the-foundation-council-dc938021dcbd)
 
