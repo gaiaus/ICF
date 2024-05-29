@@ -2,15 +2,15 @@
 Charlottesville, Virgina
 
 ### Advisor
-* Sia Foundation
-* Twilight Protocol
-* Penumbra Protocol
+* [Sia Foundation](https://sia.tech/about-sia-foundation)
+* [Twilight Protocol](https://docs.twilight.org/)
+* [Penumbra Protocol](https://protocol.penumbra.zone/main/index.html)
 
 ### Board Member
-* Mina Foundation
+* [Mina Foundation](https://www.minafoundation.com/)
 
 ### Experience
-Executive Director, ZCash Foundation
+Executive Director, [ZCash Foundation](https://zfnd.org/)
 
 ### Education
 MBA, Stanford University
