@@ -887,7 +887,13 @@ From as early as 2019, contributors and members of the Cosmos community have bee
 #### CosmosHub-4 Cycle 1-2
 * [Cycle 1 Policy](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/cycle1_policy.pdf)
 * [Cycle 1 Delegations](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/Delegations%20Cycle%201.pdf)
+  
 * [Cycle 2 Policy](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/cycle2_policy.pdf)
+* [Cycle 2 Revised Policy](https://drive.google.com/file/d/1RwJBUJ-bZCtQSSyQcWGD5gG4VDKUMutI/view)
+* [Cycle 2 Cosmos Hub Delegations](https://drive.google.com/file/d/1aiXLjn-ient8Zw0aIawqLcnLVL6JvzrC/view), 102 validators
+* [Cycle 2 Osmosis Delegations](https://drive.google.com/file/d/1OUkhvfk7-1-BWYjyYBAFlUn6ywu_P36f/view), 34 validators
+* [Cycle 2 IrisNet Delegations](https://drive.google.com/file/d/1QPfgmSb8XzsfU7_41Evz5O_0YD6qczjK/view), 6 validators
+* [Cycle 2 Celestia Delegations](https://drive.google.com/file/d/1zG3lKQI_AJBLa_QhJ0dslagbakDFPZPw/view), 17 validators
 
 **Please see**: 
 * [`delegation`](https://github.com/gaiaus/ICF/blob/main/stiftung/programs/delegation/readme.md)
