@@ -4,9 +4,7 @@
 
 [Inaugural Technical Advisory Board, August 07, 2020](https://medium.com/the-interchain-foundation/inaugural-technical-advisory-board-f4202ee2183c)
 
-[Introducing the ICF Technical Advisory Board, Nov 22, 2022
-
-(Establishment of TAB)](https://medium.com/the-interchain-foundation/introducing-the-icf-technical-advisory-board-9495d4727585) 
+[Introducing the ICF Technical Advisory Board, Nov 22, 2022 (Re-Establishment of TAB)](https://medium.com/the-interchain-foundation/introducing-the-icf-technical-advisory-board-9495d4727585) 
 
 [Termination of TAB, Apr 8, 2023](https://medium.com/the-interchain-foundation/a-note-on-the-technical-advisory-board-6893fa6c86a5) 
 
