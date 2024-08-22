@@ -21,27 +21,35 @@ This proposal aims to realign the ICF with its original mission and restore stak
 ### 1. 	**Preamble**
 
 1.1 	**ESTABLISHMENT** 
+
 WHEREAS, the Interchain Foundation (ICF) was established on March 07, 2017, as a Swiss foundation (Stiftung) under CHE-199.569.367; and 
 
 1.2 	**LEGAL CONTEXT** 
+
 WHEREAS, pursuant to Swiss law, a Stiftung may be formed solely for a specific, not-for-profit purpose and is subject to regulatory supervision by the Federal Supervisory Authority for Foundations (FSAF/ESA); and 
 
 1.3 	**MANDATED PURPOSE** 
+
 WHEREAS, the ICF's mandated purpose is *"promoting and developing new technologies and applications, especially in the fields of new open and decentralized software architectures. A dominating but not exclusive focus is set on the promotion and development of the Cosmos Network, the Polkadot Protocol and the related technologies as well as to conduct the necessary fundraising"*; and 
 
 1.4 	**FUNDRAISING** 
+
 WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, to fund its endowment; and 
 
 1.5 	**ATOM ALLOCATION** 
+
 WHEREAS, the ICF was given 20,277,188.49 ATOM, 10% of the Genesis supply, with the mandate to use these tokens for the interconnected purposes of the Cosmos Plan and its mandate established via charter; and 
 
 1.6 	**BENEFICIARIES** 
+
 WHEREAS, ATOM ICO investors, token holders, validators, developers, and contributors who participate in Cosmos Hub governance are general beneficiaries of the ICF's activities, and hereafter collectively referred to as "stakeholders"; and 
 
 1.7 	**FIDUCIARY DUTY**
+
 WHEREAS, the ICF's ongoing fiduciary duty is evidenced by two key events: the ICO of ATOM tokens and the subsequent allocation of ATOM tokens at Genesis; and 
 
 1.8 	**RESPONSIBILITY** 
+
 WHEREAS, the ICF bears the key responsibility of coordinating distributed development for decentralized Cosmos architectures, necessitating efficient resource allocation, good governance, legal compliance, and stakeholder engagement; and 
 
 ### 2. 	**Grounds for No Confidence & Call to Action** 
