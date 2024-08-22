@@ -168,7 +168,7 @@ We ESTABLISH:
 3.5 **AFFIRMATION OF INTENT** 
 We AFFIRM this action aims to realign the ICF with its mission and restore stakeholder trust. 
 
-### 4. VOTING OPTIONS** 
+### 4. VOTING OPTIONS
 
 **YES** - Expresses no confidence in ICF leadership and supports the petition for reports and potential FSAF involvement. 
 
