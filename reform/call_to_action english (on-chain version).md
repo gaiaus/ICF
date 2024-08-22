@@ -155,7 +155,7 @@ d. Additional information for comprehensive understanding of ICF operations.
 
   c. Offer any permissible summary or redacted version of the information that can be shared. 
   
-This reporting structure ensures transparency in the ICF's operations, finances, and governance, clarifying the scope of annual reports and any information limitations. Including relevant audit findings, as deemed appropriate by the ICF, further enhances transparency while maintaining confidentiality.
+[This reporting structure]((https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference)) defines the desired scope for the requested Comprehensive Annual Reports. The inclusion of relevant audit findings, as deemed appropriate by the ICF, further enhances transparency while maintaining necessary confidentiality.
 
 3.3 **TIMELINE FOR COMPLIANCE** 
 
