@@ -18,7 +18,7 @@ This proposal aims to realign the ICF with its original mission and restore stak
 [Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
 
 
-### 1. 	**PREAMBLE**
+### 1. 	**Preamble**
 
 1.1 	**ESTABLISHMENT** 
 WHEREAS, the Interchain Foundation (ICF) was established on March 07, 2017, as a Swiss foundation (Stiftung) under CHE-199.569.367; and 
@@ -54,7 +54,7 @@ WHEREAS, these events establish an ongoing fiduciary duty to execute its mandate
 1.8 	**RESPONSIBILITY** 
 WHEREAS, the ICF bears the critical responsibility of coordinating distributed development for decentralized Cosmos architectures, necessitating efficient resource allocation, good governance, legal compliance, and stakeholder engagement; and 
 
-### 2. 	**GROUNDS FOR NO CONFIDENCE AND CALL TO ACTION** 
+### 2. 	**Grounds for No Confidence & Call to Action** 
 WHEREAS, the ICF has demonstrably failed to: 
  
 a. Execute its mandated purpose; 
@@ -114,7 +114,7 @@ WHEREAS, all of the above enumerated concerns extend beyond ethical consideratio
 
 WHEREAS, these urgent issues necessitates immediate and decisive stakeholder action; 
 
-### 3. 	CALL TO ACTION 
+### 3. 	Call to Action 
 NOW, THEREFORE, We, the stakeholders of the Cosmos Hub, being duly empowered and justified by the foregoing, do hereby resolve to address the ICF’s systemic failures through the following: 
 
 3.1 	**DECLARATION OF NO CONFIDENCE** 
