@@ -14,11 +14,11 @@ WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, t
 
 WHEREAS, the Cosmos Plan, as cited in the ATOM ICO Terms and Conditions, defines the ICF's purpose, and creates a fiduciary duty to use the raised funds for: 
 
-    a. Conducting the aforementioned fundraiser; 
+  a. Conducting the aforementioned fundraiser; 
   
-    b. Contracting for the development of Cosmos Essential Software and Services (CESS); 
+  b. Contracting for the development of Cosmos Essential Software and Services (CESS); 
   
-    c. Fostering a community around CESS; and 
+  c. Fostering a community around CESS; and 
 
 1.5 	**ATOM ALLOCATION** 
 WHEREAS, the ICF was given 20,277,188.49 ATOM, 10% of the Genesis supply, with the mandate to use these tokens for the interconnected purposes of the Cosmos Plan and its mandate established via charter; and 
