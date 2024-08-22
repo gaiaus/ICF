@@ -135,7 +135,7 @@ We hereby PETITION the ICF to publish Comprehensive Annual Reports (hereinafter 
   
   a. All financial and operational information necessary to understand ICF's activities and programs 
  
-  b. Reference the appended [Audit Scope Reference](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) document, confirming: 
+  b. A reference to the appended [Audit Scope Reference](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) Document, which confirms: 
 
 - Areas included in the audit 
   
