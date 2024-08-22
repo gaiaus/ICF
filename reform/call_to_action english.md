@@ -105,9 +105,9 @@ We hereby **PETITION** the ICF to publish Comprehensive Annual Reports (hereinaf
   a. All financial and operational information necessary to understand ICF's activities and programs 
  
   b. Reference to the appended Audit Scope Reference document, confirming: 
-      ● Areas included in the audit 
-      ● Areas not covered and why 
-      ● Alternative evaluation measures for uncovered areas 
+      - Areas included in the audit 
+      - Areas not covered and why 
+      - Alternative evaluation measures for uncovered areas 
  
   c. Relevant audit findings, as deemed appropriate by ICF 
  
@@ -136,7 +136,8 @@ We **ESTABLISH**:
 3.5 **AFFIRMATION OF INTENT** 
 We AFFIRM this action aims to realign the ICF with its mission and restore stakeholder trust. 
 
-4. **VOTING OPTIONS** 
+### 4. VOTING OPTIONS** 
+
 **YES** - Expresses no confidence in ICF leadership and supports the petition for reports and potential FSAF involvement. 
 
 **NO** - Does not approve this proposal. 
