@@ -14,7 +14,7 @@ WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, t
 
 WHEREAS, the Cosmos Plan, as cited in the ATOM ICO Terms and Conditions, defines the ICF's purpose, and creates a fiduciary duty to use the raised funds for: 
   
-  a. Conducting the aforementioned fundraiser; 
+ ensp a. Conducting the aforementioned fundraiser; 
   
   b. Contracting for the development of Cosmos Essential Software and Services (CESS); 
   
