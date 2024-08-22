@@ -17,8 +17,6 @@ This proposal aims to realign the ICF with its original mission and restore stak
 
 [Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
 
-*This proposal is available in French, Chinese (Simplified, Traditional), Korean, Japanese, Russian [here](https://github.com/gaiaus/ICF/tree/main/reform)*
-
 
 ### 1. 	**Preamble**
 
@@ -167,6 +165,8 @@ We ESTABLISH:
 
 3.5 **AFFIRMATION OF INTENT** 
 We AFFIRM this action aims to realign the ICF with its mission and restore stakeholder trust. 
+
+*This proposal is available in French, Chinese (Simplified, Traditional), Korean, Japanese, Russian [here](https://github.com/gaiaus/ICF/tree/main/reform)*
 
 ### 4. VOTING OPTIONS
 
