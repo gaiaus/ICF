@@ -9,7 +9,7 @@ The proposal asks voters to:
 
 3. Support contingency measures if the ICF fails to comply, including petitioning the Swiss Federal Supervisory Authority for Foundations (FSAF) for an audit on the foundation.
 
-This proposal aims to realign the ICF with its original mission and restore stakeholder trust in the organization's management of the Cosmos Hub and broader ecosystem resources.
+This proposal aims to realign the ICF with its original mission and restore stakeholder trust in the foundation's management of its resources.
 
 [Full text](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233) of the proposal.
 
@@ -71,41 +71,33 @@ WHEREAS, the failure to prioritize ATOM, despite having received ATOM, BTC, and 
 
 WHEREAS, lack of competence and expertise in foundation management has led to governance deficiencies evidenced by: 
  
-  a. Allegations of anti-competitive practices and abuse of dominant position by members of the Foundation Council (FC), potentially violating applicable competition laws and contravening principles of fair governance; 
+  a. Allegations of anti-competitive practices and abuse of dominant position by members of the Foundation Council (FC), potentially violating applicable competition laws and undermining principles of fair governance; 
 
-  b. Governance instability manifested in the resignation and replacement of two FC Presidents within an eleven-month period;
+  b. Governance instability highlighted by the resignation and replacement of two FC Presidents within an eleven-month period;
  
-  c. Inadequate implementation of checks and balances, and ineffective oversight mechanisms; and 
+  c. Inadequate checks and balances, and ineffective oversight mechanisms; and 
 
 2.4 	**CONFLICTS OF INTEREST** 
 
-WHEREAS, unmitigated conflicts of interest (COIs) impair its critical functions in resource allocation and decision-making, particularly affecting grants, vendor agreements, investments, and token delegations; and 
-
-WHEREAS, the ICF's internal controls exhibit inadequate implementations for: 
-  
-  a. Preventing, detecting, and correcting self-dealing; 
- 
-  b. Safeguards against improper influences affecting FC and Board of Management decisions; 
- 
-  c. Proper disclosure and recusal procedures; and 
+WHEREAS, unmitigated conflicts of interest impair critical functions in resource allocation and decision-making, particularly affecting grants, vendor agreements, investments, and token delegations; and 
 
 2.5 	**LACK OF TRANSPARENCY AND ACCOUNTABILITY** 
 
-WHEREAS, the ICF asserts comprehensive statutory reporting to the FSAF, including "ordinary audits," yet the confidential nature of these filings precludes stakeholder verification; and 
+WHEREAS, the ICF claims comprehensive statutory reporting to the FSAF, including "ordinary audits," but the confidentiality of these filings prevents stakeholder verification; and
 
-WHEREAS, the ICF's compliance with the FSAF is insufficient to satisfy its transparency and accountability obligations to stakeholders; and for nearly eight years, the ICF has shown a pattern of non-disclosure and obfuscation, resulting in a substantial and potentially incurable information asymmetry; and 
+WHEREAS, the ICF's FSAF compliance fails to meet transparency and accountability obligations, with nearly eight years of non-disclosure and obfuscation causing significant information asymmetry; and
 
-WHEREAS, this calculated withholding of information appears strategically motivated to frustrate stakeholder demands for reform and oversight; and these actions have created a systemic obstruction of information that disadvantages stakeholders, while compromising the long-term viability of the Cosmos project; and 
+WHEREAS, this deliberate withholding of information appears strategically aimed at frustrating stakeholder demands for reform, creating systemic information barriers that disadvantage stakeholders and threaten the long-term viability of the Cosmos project; and
 
 2.6 	**FINANCIAL MISMANAGEMENT** 
 
-WHEREAS, the ICF has shown indications of imprudent Treasury management characterized by funding disruptions, likely due to inadequate risk management, diversification and liquidity management strategies; and 
+WHEREAS, the ICF has shows signs of imprudent Treasury management, with funding disruptions likely stemming from poor risk management, diversification, and liquidity strategies; and
 
-WHEREAS, the ICF's reporting on its assets fails to meet reasonable disclosure standards, lacking comprehensive inventory of fiat currencies, cryptocurrencies, and other financial instruments; and 
+WHEREAS, the ICF's asset reporting fails to meet reasonable disclosure standards; and
 
-WHEREAS, the ICF has failed to provide stakeholders with timely and adequate reporting on significant changes in various assets and their management strategies on a year-over-year basis, not only obstructs accountability but violates its duty to inform as a not-for-profit purpose foundation and fiduciary; and 
+WHEREAS, the ICF's failure to provide stakeholders with timely, comprehensive reports on significant asset changes and management strategies undermines accountability and breaches its fiduciary duty as a not-for-profit foundation; and
 
-WHEREAS, concerns regarding potential misuse of funds, including allegations of embezzlement, which if substantiated, would violate civil and criminal laws; and 
+WHEREAS, there are concerns about potential misuse of funds, including allegations of embezzlement, which, if proven, would violate civil and criminal laws; and
 
 2.7 	**EROSION OF STAKEHOLDER TRUST** 
 
@@ -145,12 +137,13 @@ d. Additional information for comprehensive understanding of ICF operations.
 
 3.2.3 In cases where certain information cannot be disclosed due to confidentiality constraints, the ICF shall: 
 
-  a. Clearly state the nature of the information that cannot be disclosed 
+  a. State the nature of the information that cannot be disclosed 
 
-  b. Provide the legal or regulatory basis for such non-disclosure 
+  b. Provide the legal/regulatory basis for non-disclosure 
 
   c. Offer any permissible summary or redacted version of the information that can be shared. 
-This comprehensive reporting structure ensures transparency regarding the ICF's operations, financial status, and governance practices, while also providing clarity on the scope of the requested annual Reports and any limitations in available information. The inclusion of relevant audit findings, at the ICF's discretion, further promotes transparency while respecting necessary confidentiality. 
+  
+This reporting structure ensures transparency in the ICF's operations, finances, and governance, clarifying the scope of annual reports and any information limitations. Including relevant audit findings, as deemed appropriate by the ICF, further enhances transparency while maintaining confidentiality.
 
 3.3 **TIMELINE FOR COMPLIANCE** 
 
@@ -162,7 +155,7 @@ We ESTABLISH:
 
 3.4.1 In the event Reports are not delivered within 60 days, the stakeholders will petition the FSAF directly for an appropriate audit.
 
-3.4.2 If at any point it is discovered that the ICF has misrepresented the scope of its annual audits, stakeholders will report the misrepresentation and petition the FSAF for an audit and investigation, irrespective of the 60-day waiting period. 
+3.4.2 If it is discovered that the ICF has misrepresented the scope of its annual audits, stakeholders will report the misrepresentation and petition the FSAF for an audit and investigation, irrespective of the 60-day waiting period. 
 
 3.5 **AFFIRMATION OF INTENT** 
 We AFFIRM this action aims to realign the ICF with its mission and restore stakeholder trust. 
