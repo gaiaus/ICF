@@ -2,16 +2,16 @@
 
 ## Summary 
 This proposal calls for a vote of no confidence in the ICF leadership, grounded by serious concerns over governance failures, undue influences, and neglect of purpose and duty. 
-Leadership, whether established or new, must possess awareness to be accountable for the legacy, reputation, and future it stewards. No confidence sends a clear zero-tolerance message to the ICF Foundation Council about where they stand, reasons why, and what must be rectified—immediately. 
+Whether established or new, leadership needs awareness in order to be accountable for the legacy, reputation, and future it stewards. No confidence sends a clear zero-tolerance message to the ICF Foundation Council about where they stand, reasons why, and what must be rectified—immediately. 
 
-This proposal is not merely an indictment; it’s more importantly, a decisive call to action. 
+However, this proposal is not merely an indictment; it’s more importantly, a decisive call to action. 
 An opportunity for stakeholders to assert their voice for constructive asks utilizing reasonable demands and timelines to achieve the transparency that previous calls for accountability failed to secure. 
 
 A YES vote for this proposal means signaling support for:
 
 - A demand for Comprehensive Annual Reports for fiscal years 2017-2023 within 60 days.
 - [Specific guidelines](​​https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) for the content and structure of these Reports.
-- Contingency measures, such as petitioning the Supervisory Authority (FSAF) if the ICF fails to comply with the proposal’s demands.
+- Contingency measures, such as petitioning the Supervisory Authority (FSAF) for the ICF directly if the foundation refuses to comply.
 
 **Links**:
 [Full text](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233) of the proposal.
