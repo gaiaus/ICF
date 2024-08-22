@@ -13,8 +13,10 @@ WHEREAS, the ICF's mandated purpose is "promoting and developing new technologie
 
 1.4 	**FUNDRAISING** 
 WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, to fund its endowment; and 
+
 WHEREAS, the Cosmos Plan, as cited in the ATOM ICO Terms and Conditions, defines the ICF's purpose, and creates a fiduciary duty to use the raised funds for: 
   a. Conducting the aforementioned fundraiser; 
+  
   b. Contracting for the development of Cosmos Essential Software and Services (CESS); c. Fostering a community around CESS; and 
 
 1.5 	**ATOM ALLOCATION** 
