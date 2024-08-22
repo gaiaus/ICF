@@ -1,14 +1,14 @@
 ### Title: Declaration of No Confidence in the Interchain Foundation Leadership: A Call to Action
 
 ## Summary 
-
 This proposal calls for a vote of no confidence in the ICF leadership, grounded by serious concerns over governance failures, undue influences, and neglect of purpose and duty. 
+Leadership, whether established or new, must possess awareness to be accountable for the legacy, reputation, and future it stewards. No confidence sends a clear zero-tolerance message to the ICF Foundation Council about where they stand, reasons why, and what must be rectified—immediately. 
 
-Leadership, whether established or new, must possess an awareness if it is to be accountable for the legacy, reputation, and future it stewards. A vote of no confidence sends a clear zero tolerance message to the ICF Foundation Council about where they stand, and what must be rectified—immediately. 
+This proposal is not merely an indictment; it’s more importantly, a decisive call to action. 
+An opportunity for stakeholders to assert their voice for a constructive plan that utilizes reasonable demands and timelines to achieve the transparency that previous calls for accountability failed to secure. 
 
-However, this proposal is not an indictment; it’s a decisive call to action for stakeholders to assert their voice in actioning a constructive plan to rebuild confidence where trust has been broken. It also offers the foundation an opportunity to chart a new, responsible direction.
+A YES vote for this proposal means signaling support for:
 
-A YES vote for this proposal means supporting the following measures:
 - A demand for Comprehensive Annual Reports for fiscal years 2017-2023 within 60 days.
 - [Specific guidelines](​​https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) for the content and structure of these Reports.
 - Contingency measures, such as petitioning the Supervisory Authority (FSAF) if the ICF fails to comply with the proposal’s demands.
