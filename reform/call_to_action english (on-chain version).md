@@ -7,7 +7,7 @@ The proposal asks voters to:
 
 1. Formally declare no confidence in the ICF Foundation Council leadership.
 
-2. Demand that the ICF publish comprehensive annual reports for fiscal years 2017-2023 within 60 days of the proposal's passage. 
+2. Demand that the ICF publish Comprehensive Annual Reports for fiscal years 2017-2023 within 60 days of the proposal's passage. 
 
 3. Support contingency measures if the ICF fails to comply, including petitioning the Swiss Federal Supervisory Authority for Foundations (FSAF) for an audit on the foundation.
 
