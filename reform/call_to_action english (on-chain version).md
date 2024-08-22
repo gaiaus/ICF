@@ -115,7 +115,7 @@ WHEREAS, there are concerns about potential misuse of funds, including allegatio
 
 WHEREAS, all of the above enumerated concerns extend beyond ethical considerations and/or violations of the ICF charter, but may also possibly contravene Swiss Civil Code, Swiss Code of Obligations, Swiss Criminal Code, and Swiss Foundation laws; and
 
-WHEREAS, these urgent issues necessitates immediate and decisive stakeholder action; 
+WHEREAS, these urgent issues necessitate immediate and decisive stakeholder action; 
 
 ### 3. 	Call to Action 
 
