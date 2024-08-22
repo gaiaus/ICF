@@ -124,9 +124,11 @@ d. Additional information for comprehensive understanding of ICF operations.
 This comprehensive reporting structure ensures transparency regarding the ICF's operations, financial status, and governance practices, while also providing clarity on the scope of the requested annual Reports and any limitations in available information. The inclusion of relevant audit findings, at the ICF's discretion, further promotes transparency while respecting necessary confidentiality. 
 
 3.3 **TIMELINE FOR COMPLIANCE** 
+
 We **DEMAND** that Reports be published within 60 days of this proposal's passage. 
 
 3.4 **CONTINGENCY MEASURES** 
+
 We **ESTABLISH**: 
 
 3.4.1 In the event Reports are not delivered within 60 days, the stakeholders will petition the FSAF directly for an appropriate audit.
