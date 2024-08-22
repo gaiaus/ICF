@@ -66,12 +66,15 @@ A foundation deed is a document creating the foundation, and it must be duly cer
 
 *Current*
 
-* [Brian F. Crain](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/README.md)
-* [Ethan Buchman](https://github.com/gaiaus/ICF/blob/main/people/ethan_buchman/README.md)
-* [Fernando Pedone](https://www.inf.usi.ch/faculty/pedone/)
+* [Joshua Cincinnati](https://github.com/gaiaus/ICF/tree/main/people/joshua_cincinnati), President
+* [Ethan Buchman](https://github.com/gaiaus/ICF/blob/main/people/ethan_buchman/README.md), Vice President
+* [Maxime Monod](https://github.com/gaiaus/ICF/tree/main/people/maxime_monod), Member
+
 
 *Former*
-  
+
+* [Brian F. Crain](https://github.com/gaiaus/ICF/blob/main/people/brian_fabian_crain/README.md)
+* [Fernando Pedone](https://www.inf.usi.ch/faculty/pedone/)
 * [Guido Schmitz Krummacher](https://github.com/gaiaus/ICF/blob/main/people/guido_schmitz_krummacher/README.md)
 * [Jae Kwon](https://github.com/gaiaus/ICF/tree/main/people/jae_kwon)
 * [Pascal Schmid](https://github.com/gaiaus/ICF/blob/main/people/pascal_schmid/README.mdd)
