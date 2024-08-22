@@ -1,4 +1,21 @@
+### Summary 
+This proposal expresses a vote of no confidence in the Interchain Foundation (ICF) leadership and calls for increased transparency and accountability. It outlines concerns about the ICF's deviation from its mandated purpose, alleged breaches of fiduciary duty, governance failures, conflicts of interest, lack of transparency, and financial mismanagement.
+
+The proposal asks voters to:
+
+1. Formally declare no confidence in the ICF Foundation Council leadership.
+
+2. Demand that the ICF publish comprehensive annual reports for fiscal years 2017-2023 within 60 days of the proposal's passage. 
+
+3. Support contingency measures if the ICF fails to comply, including petitioning the Swiss Federal Supervisory Authority for Foundations (FSAF) for an audit on the foundation.
+
+This proposal aims to realign the ICF with its original mission and restore stakeholder trust in the organization's management of the Cosmos Hub and broader ecosystem resources.
+
+[Full text](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233) of the proposal.
+[Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
+
 *This proposal is available in French, Chinese (Simplified, Traditional), Korean, Japanese, Russian [here](https://github.com/gaiaus/ICF/tree/main/reform)*
+
 
 ### 1. 	**PREAMBLE**
 
