@@ -36,7 +36,7 @@ WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, t
 WHEREAS, the ICF was given 20,277,188.49 ATOM, 10% of the Genesis supply, with the mandate to use these tokens for the interconnected purposes of the Cosmos Plan and its mandate established via charter; and 
 
 1.6 	**BENEFICIARIES** 
-WHEREAS, ATOM ICO investors, token holders, validators, developers, and contributors who participate in Cosmos Hub governance are recognized as general beneficiaries of the ICF's activities, and hereafter collectively referred to as "stakeholders"; and 
+WHEREAS, ATOM ICO investors, token holders, validators, developers, and contributors who participate in Cosmos Hub governance are general beneficiaries of the ICF's activities, and hereafter collectively referred to as "stakeholders"; and 
 
 1.7 	**FIDUCIARY DUTY**
 WHEREAS, the ICF's ongoing fiduciary duty is evidenced by two key events: the ICO of ATOM tokens and the subsequent allocation of ATOM tokens at Genesis; and 
