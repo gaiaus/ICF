@@ -91,10 +91,12 @@ WHEREAS, these urgent issues necessitates immediate and decisive stakeholder act
 NOW, THEREFORE, We, the stakeholders of the Cosmos Hub, being duly empowered and justified by the foregoing, do hereby resolve to address the ICF’s systemic failures through the following: 
 
 3.1 	**DECLARATION OF NO CONFIDENCE** 
-We hereby **DECLARE** formally our vote of no confidence in the ICF Foundation Council (FC) leadership; 
+
+We hereby DECLARE formally our vote of no confidence in the ICF Foundation Council (FC) leadership; 
 
 3.2 	**PETITION FOR COMPREHENSIVE ANNUAL REPORTS** 
-We hereby **PETITION** the ICF to publish Comprehensive Annual Reports (hereinafter "Reports") for fiscal years 2017-2023, as follows: 
+
+We hereby PETITION the ICF to publish Comprehensive Annual Reports (hereinafter "Reports") for fiscal years 2017-2023, as follows: 
 
 3.2.1 Individual Reports for each fiscal year; no consolidated Reports. 
 
@@ -125,11 +127,11 @@ This comprehensive reporting structure ensures transparency regarding the ICF's 
 
 3.3 **TIMELINE FOR COMPLIANCE** 
 
-We **DEMAND** that Reports be published within 60 days of this proposal's passage. 
+We DEMAND that Reports be published within 60 days of this proposal's passage. 
 
 3.4 **CONTINGENCY MEASURES** 
 
-We **ESTABLISH**: 
+We ESTABLISH: 
 
 3.4.1 In the event Reports are not delivered within 60 days, the stakeholders will petition the FSAF directly for an appropriate audit.
 
