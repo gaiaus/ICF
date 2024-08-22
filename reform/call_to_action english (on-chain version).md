@@ -1,22 +1,22 @@
 ### Title: Declaration of No Confidence in the Interchain Foundation Leadership: A Call to Action
 
 ## Summary 
-This proposal expresses a vote of no confidence in the Interchain Foundation (ICF) leadership and calls for increased transparency and accountability. It outlines concerns about the ICF's deviation from its mandated purpose, governance failures, conflicts of interest, lack of transparency, financial mismanagement, and alleged breach of fiduciary duty.
 
-The proposal asks voters to:
+This proposal calls for a vote of no confidence in the ICF leadership, grounded by serious concerns over governance failures, undue influences, and neglect of purpose and duty. 
 
-1. Formally declare no confidence in the ICF Foundation Council leadership.
+Leadership, whether established or new, must possess an awareness if it is to be accountable for the legacy, reputation, and future it stewards. A vote of no confidence sends a clear zero tolerance message to the ICF Foundation Council about where they stand, and what must be rectified—immediately. 
 
-2. Demand that the ICF publish Comprehensive Annual Reports for fiscal years 2017-2023 within 60 days of the proposal's passage. 
+However, this proposal is not an indictment; it’s a decisive call to action for stakeholders to assert their voice in actioning a constructive plan to rebuild confidence where trust has been broken. It also offers the foundation an opportunity to chart a new, responsible direction.
 
-3. Support contingency measures if the ICF fails to comply, including petitioning the Swiss Federal Supervisory Authority for Foundations (FSAF) for an audit on the foundation.
+A YES vote for this proposal means supporting the following measures:
+- A demand for Comprehensive Annual Reports for fiscal years 2017-2023 within 60 days.
+- [Specific guidelines](​​https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) for the content and structure of these Reports.
+- Contingency measures, such as petitioning the Supervisory Authority (FSAF) if the ICF fails to comply with the proposal’s demands.
 
-This proposal aims to realign the ICF with its original mission and restore stakeholder trust in the foundation's management of its resources.
-
+**Links**:
 [Full text](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233) of the proposal.
 
 [Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
-
 
 ## 1. 	**Preamble**
 
