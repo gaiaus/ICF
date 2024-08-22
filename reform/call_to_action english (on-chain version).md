@@ -155,7 +155,9 @@ d. Additional information for comprehensive understanding of ICF operations.
 
   c. Offer any permissible summary or redacted version of the information that can be shared. 
   
-*The above-described reporting structure defines the [desired scope for the requested Comprehensive Annual Reports](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference). The inclusion of relevant audit findings, as deemed appropriate by the ICF, further enhances transparency while maintaining necessary confidentiality*.
+*The above-described reporting structure defines the [desired scope for the requested Comprehensive Annual Reports](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference)*. 
+
+*Including relevant audit findings, as deemed appropriate by the ICF, further enhances transparency while maintaining necessary confidentiality*.
 
 3.3 **TIMELINE FOR COMPLIANCE** 
 
