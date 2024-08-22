@@ -13,7 +13,7 @@ A YES vote for this proposal means signaling support for:
 
 - A demand for Comprehensive Annual Reports for fiscal years 2017-2023 within 60 days.
 - [Specific guidelines](​​https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) for the content and structure of these Reports.
-- Contingency measures, such as petitioning the Supervisory Authority (FSAF) for the ICF directly if the foundation refuses to comply.
+- Contingency measures, such as directly petitioning the Supervisory Authority (FSAF) for the ICF to pursue an audit in the event the ICF refuses to comply.
 
 **Links**:
 [Full text](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233) of the proposal.
