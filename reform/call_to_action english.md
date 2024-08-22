@@ -15,9 +15,12 @@ WHEREAS, the ICF's mandated purpose is "promoting and developing new technologie
 WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, to fund its endowment; and 
 
 WHEREAS, the Cosmos Plan, as cited in the ATOM ICO Terms and Conditions, defines the ICF's purpose, and creates a fiduciary duty to use the raised funds for: 
+  
   a. Conducting the aforementioned fundraiser; 
   
-  b. Contracting for the development of Cosmos Essential Software and Services (CESS); c. Fostering a community around CESS; and 
+  b. Contracting for the development of Cosmos Essential Software and Services (CESS); 
+  
+  c. Fostering a community around CESS; and 
 
 1.5 	**ATOM ALLOCATION** 
 WHEREAS, the ICF was given 20,277,188.49 ATOM, 10% of the Genesis supply, with the mandate to use these tokens for the interconnected purposes of the Cosmos Plan and its mandate established via charter; and 
@@ -34,9 +37,13 @@ WHEREAS, the ICF bears the critical responsibility of coordinating distributed d
 
 ### 2. 	**GROUNDS FOR NO CONFIDENCE AND CALL TO ACTION** 
 WHEREAS, the ICF has demonstrably failed to: 
+ 
   a. Execute its mandated purpose; 
+ 
   b. Perform its fiduciary and legal duties; 
+ 
   c. Fulfill its obligations to stakeholders; and 
+
 WHEREAS, the grounds for the declaration of no confidence and the "Call to Action" include, inter alia: 
 
 2.1 	**DEVIATION FROM MANDATED PURPOSE** 
@@ -49,15 +56,21 @@ WHEREAS, the failure to prioritize ATOM, despite having received ATOM, BTC, and 
 
 2.3 	**GOVERNANCE FAILURES** 
 WHEREAS, lack of competence and expertise in foundation management has led to governance deficiencies evidenced by: 
+ 
   a. Allegations of anti-competitive practices and abuse of dominant position by members of the Foundation Council (FC), potentially violating applicable competition laws and contravening principles of fair governance; 
+
   b. Governance instability manifested in the resignation and replacement of two FC Presidents within an eleven-month period;
+ 
   c. Inadequate implementation of checks and balances, and ineffective oversight mechanisms; and 
 
 2.4 	**CONFLICTS OF INTEREST** 
 WHEREAS, unmitigated conflicts of interest (COIs) impair its critical functions in resource allocation and decision-making, particularly affecting grants, vendor agreements, investments, and token delegations; and 
 WHEREAS, the ICF's internal controls exhibit inadequate implementations for: 
+  
   a. Preventing, detecting, and correcting self-dealing; 
+ 
   b. Safeguards against improper influences affecting FC and Board of Management decisions; 
+ 
   c. Proper disclosure and recusal procedures; and 
 
 2.5 	**LACK OF TRANSPARENCY AND ACCOUNTABILITY** 
@@ -88,17 +101,24 @@ We hereby **PETITION** the ICF to publish Comprehensive Annual Reports (hereinaf
 3.2.1 Individual Reports for each fiscal year; no consolidated Reports. 
 
 3.2.2 Each Report shall include: 
+  
   a. All financial and operational information necessary to understand ICF's activities and programs 
+ 
   b. Reference to the appended Audit Scope Reference document, confirming: 
       ● Areas included in the audit 
       ● Areas not covered and why 
       ● Alternative evaluation measures for uncovered areas 
+ 
   c. Relevant audit findings, as deemed appropriate by ICF 
+ 
   d. Additional information for comprehensive understanding of ICF operations. 
 
 3.2.3 In cases where certain information cannot be disclosed due to confidentiality constraints, the ICF shall: 
+
 a. Clearly state the nature of the information that cannot be disclosed 
+
 b. Provide the legal or regulatory basis for such non-disclosure 
+
 c. Offer any permissible summary or redacted version of the information that can be shared. 
 This comprehensive reporting structure ensures transparency regarding the ICF's operations, financial status, and governance practices, while also providing clarity on the scope of the requested annual Reports and any limitations in available information. The inclusion of relevant audit findings, at the ICF's discretion, further promotes transparency while respecting necessary confidentiality. 
 Audit Scope Reference 
