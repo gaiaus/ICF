@@ -54,11 +54,12 @@ Who's the boss?
 ### [Supervisory Authority](https://github.com/gaiaus/ICF/tree/main/stiftung#ii-governance)
 The Federal Supervisory Authority for Foundations (FSAF) is the relevant supervisory authority for classic foundations with an international scope. 
  
-### [Deed/Charter](https://github.com/gaiaus/ICF/tree/main/stiftung#deedcharter)
+### [Deed/Charter]
 A foundation deed is a document creating the foundation, and it must be duly certified, witnessed, and registered. 
+*missing*
 
-### [Articles of Association](https://github.com/gaiaus/ICF/tree/main/stiftung#articles-of-association)
-
+### [Articles of Association]
+*missing*
 
 ## [Leadership & Administration](https://github.com/gaiaus/ICF/tree/main/stiftung#iii-leadership-administration--organization)
 
