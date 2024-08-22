@@ -13,12 +13,12 @@ WHEREAS, the ICF's mandated purpose is "promoting and developing new technologie
 WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, to fund its endowment; and 
 
 WHEREAS, the Cosmos Plan, as cited in the ATOM ICO Terms and Conditions, defines the ICF's purpose, and creates a fiduciary duty to use the raised funds for: 
+
+    a. Conducting the aforementioned fundraiser; 
   
- ensp a. Conducting the aforementioned fundraiser; 
+    b. Contracting for the development of Cosmos Essential Software and Services (CESS); 
   
-  b. Contracting for the development of Cosmos Essential Software and Services (CESS); 
-  
-  c. Fostering a community around CESS; and 
+    c. Fostering a community around CESS; and 
 
 1.5 	**ATOM ALLOCATION** 
 WHEREAS, the ICF was given 20,277,188.49 ATOM, 10% of the Genesis supply, with the mandate to use these tokens for the interconnected purposes of the Cosmos Plan and its mandate established via charter; and 
@@ -36,11 +36,11 @@ WHEREAS, the ICF bears the critical responsibility of coordinating distributed d
 ### 2. 	**GROUNDS FOR NO CONFIDENCE AND CALL TO ACTION** 
 WHEREAS, the ICF has demonstrably failed to: 
  
-  a. Execute its mandated purpose; 
+a. Execute its mandated purpose; 
  
-  b. Perform its fiduciary and legal duties; 
+b. Perform its fiduciary and legal duties; 
  
-  c. Fulfill its obligations to stakeholders; and 
+c. Fulfill its obligations to stakeholders; and 
 
 WHEREAS, the grounds for the declaration of no confidence and the "Call to Action" include, inter alia: 
 
