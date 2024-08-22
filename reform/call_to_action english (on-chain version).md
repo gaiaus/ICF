@@ -1,6 +1,6 @@
 ### Title: Declaration of No Confidence in the Interchain Foundation Leadership: A Call to Action
 
-### Summary 
+## Summary 
 This proposal expresses a vote of no confidence in the Interchain Foundation (ICF) leadership and calls for increased transparency and accountability. It outlines concerns about the ICF's deviation from its mandated purpose, governance failures, conflicts of interest, lack of transparency, financial mismanagement, and alleged breach of fiduciary duty.
 
 The proposal asks voters to:
@@ -18,7 +18,7 @@ This proposal aims to realign the ICF with its original mission and restore stak
 [Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
 
 
-### 1. 	**Preamble**
+## 1. 	**Preamble**
 
 1.1 	**ESTABLISHMENT** 
 
@@ -52,7 +52,7 @@ WHEREAS, the ICF's ongoing fiduciary duty is evidenced by two key events: the IC
 
 WHEREAS, the ICF bears the key responsibility of coordinating distributed development for decentralized Cosmos architectures, necessitating efficient resource allocation, good governance, legal compliance, and stakeholder engagement; and 
 
-### 2. 	**Grounds for No Confidence** 
+## 2. 	**Grounds for No Confidence** 
 WHEREAS, the ICF has demonstrably failed to: 
  
 a. Execute its mandated purpose; 
@@ -168,7 +168,7 @@ We AFFIRM this action aims to realign the ICF with its mission and restore stake
 
 *This proposal is available in French, Chinese (Simplified, Traditional), Korean, Japanese, Russian [here](https://github.com/gaiaus/ICF/tree/main/reform)*
 
-### 4. VOTING OPTIONS
+## 4. VOTING OPTIONS
 
 **YES** - Expresses no confidence in ICF leadership and supports the petition for reports and potential FSAF involvement. 
 
