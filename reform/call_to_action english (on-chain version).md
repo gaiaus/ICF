@@ -168,7 +168,7 @@ We AFFIRM this action aims to realign the ICF with its mission and restore stake
 
 *This proposal is available in French, Chinese (Simplified, Traditional), Korean, Japanese, Russian [here](https://github.com/gaiaus/ICF/tree/main/reform)*
 
-## 4. VOTING OPTIONS
+## 4. Voting Options
 
 **YES** - Expresses no confidence in ICF leadership and supports the petition for reports and potential FSAF involvement. 
 
