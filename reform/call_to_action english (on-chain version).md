@@ -5,7 +5,7 @@ This proposal calls for a vote of no confidence in the ICF leadership, grounded 
 Leadership, whether established or new, must possess awareness to be accountable for the legacy, reputation, and future it stewards. No confidence sends a clear zero-tolerance message to the ICF Foundation Council about where they stand, reasons why, and what must be rectified—immediately. 
 
 This proposal is not merely an indictment; it’s more importantly, a decisive call to action. 
-An opportunity for stakeholders to assert their voice for a constructive plan that utilizes reasonable demands and timelines to achieve the transparency that previous calls for accountability failed to secure. 
+An opportunity for stakeholders to assert their voice for constructive asks utilizing reasonable demands and timelines to achieve the transparency that previous calls for accountability failed to secure. 
 
 A YES vote for this proposal means signaling support for:
 
