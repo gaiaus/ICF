@@ -86,7 +86,7 @@ A foundation deed is a document creating the foundation, and it must be duly cer
 
 ### [Board of Managment -- Interchain AG](https://github.com/gaiaus/ICF/tree/main/stiftung#c-board-of-management)
 
-* [Maria Gomez](https://github.com/gaiaus/ICF/tree/main/people/mar%C3%ADa_g%C3%B3mez), *Current*
+* [Maria Gomez](https://github.com/gaiaus/ICF/tree/main/people/mar%C3%ADa_g%C3%B3mez), *Former Managing Director*
 * [Arianne Flemming](https://github.com/gaiaus/ICF/blob/main/people/arianne_flemming/README.md), *Former Managing Director*
 * [Anna Lena Harbaum](https://github.com/gaiaus/ICF/tree/main/people/anna_lena_harbaum), *Former Managing Director*
 * [Billy Rennekamp](https://github.com/gaiaus/ICF/blob/main/people/billy_rennekamp/README.md), *Former Managing Director*
