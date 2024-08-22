@@ -1,4 +1,4 @@
-*This text is available in French, Chinese (Simplified, Traditional), Korean, Japanese, Russian [here](https://github.com/gaiaus/ICF/tree/main/reform)*
+*This proposal is available in French, Chinese (Simplified, Traditional), Korean, Japanese, Russian [here](https://github.com/gaiaus/ICF/tree/main/reform)*
 
 ### 1. 	**PREAMBLE**
 
