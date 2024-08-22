@@ -93,9 +93,9 @@ WHEREAS, unmitigated conflicts of interest impair critical functions in resource
 
 WHEREAS, the ICF claims comprehensive statutory reporting to the FSAF, including "ordinary audits," but the confidentiality of these filings prevents stakeholder verification; and
 
-WHEREAS, the ICF's FSAF compliance fails to meet transparency and accountability obligations, with nearly eight years of non-disclosure and obfuscation causing significant information asymmetry; and
+WHEREAS, despite the ICF's compliance with Swiss reporting requirements, its nearly eight years of non-disclosure and obfuscation have resulted in significant information asymmetry, demonstrating a failure to fully meet its transparency and accountability obligations to stakeholders; and
 
-WHEREAS, this deliberate withholding of information appears strategically aimed at frustrating stakeholder demands for reform, creating systemic information barriers that disadvantage stakeholders and threaten the long-term viability of the Cosmos project; and
+WHEREAS, this deliberate withholding of information appears strategically aimed at frustrating stakeholder demands for reform, creating systemic information barriers that disadvantage stakeholders and threaten the long-term viability of the Cosmos Hub and Cosmos project; and
 
 2.6 	**FINANCIAL MISMANAGEMENT** 
 
