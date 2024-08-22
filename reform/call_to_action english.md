@@ -102,7 +102,7 @@ We hereby **PETITION** the ICF to publish Comprehensive Annual Reports (hereinaf
   
   a. All financial and operational information necessary to understand ICF's activities and programs 
  
-  b. Reference to the appended [Audit Scope Reference document](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference), confirming: 
+  b. Reference to the appended [Audit Scope Reference](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) document, confirming: 
 
 - Areas included in the audit 
   
@@ -122,8 +122,6 @@ d. Additional information for comprehensive understanding of ICF operations.
 
   c. Offer any permissible summary or redacted version of the information that can be shared. 
 This comprehensive reporting structure ensures transparency regarding the ICF's operations, financial status, and governance practices, while also providing clarity on the scope of the requested annual Reports and any limitations in available information. The inclusion of relevant audit findings, at the ICF's discretion, further promotes transparency while respecting necessary confidentiality. 
-
-[Audit Scope Reference](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) 
 
 3.3 **TIMELINE FOR COMPLIANCE** 
 We **DEMAND** that Reports be published within 60 days of this proposal's passage. 
