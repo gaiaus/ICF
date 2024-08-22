@@ -106,11 +106,11 @@ We hereby **PETITION** the ICF to publish Comprehensive Annual Reports (hereinaf
  
   b. Reference to the appended Audit Scope Reference document, confirming: 
      
-      * Areas included in the audit 
+      *Areas included in the audit 
      
-      * Areas not covered and why 
+      *Areas not covered and why 
       
-      * Alternative evaluation measures for uncovered areas 
+      *Alternative evaluation measures for uncovered areas 
  
   c. Relevant audit findings, as deemed appropriate by ICF 
  
