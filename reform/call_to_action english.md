@@ -9,7 +9,7 @@ WHEREAS, the Interchain Foundation (ICF) was established on March 07, 2017, as a
 WHEREAS, pursuant to Swiss law, a Stiftung may be formed solely for a specific, not-for-profit purpose and is subject to regulatory supervision by the Federal Supervisory Authority for Foundations (FSAF/ESA); and 
 
 1.3 	**MANDATED PURPOSE** 
-WHEREAS, the ICF's mandated purpose is "promoting and developing new technologies and applications, especially in the fields of new open and decentralized software architectures. A dominating but not exclusive focus is set on the promotion and development of the Cosmos Network, the Polkadot Protocol and the related technologies as well as to conduct the necessary fundraising"; and 
+WHEREAS, the ICF's mandated purpose is *"promoting and developing new technologies and applications, especially in the fields of new open and decentralized software architectures. A dominating but not exclusive focus is set on the promotion and development of the Cosmos Network, the Polkadot Protocol and the related technologies as well as to conduct the necessary fundraising"*; and 
 
 1.4 	**FUNDRAISING** 
 WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, to fund its endowment; and 
@@ -30,6 +30,7 @@ WHEREAS, ATOM ICO investors, token holders, validators, developers, and contribu
 
 1.7 	**FIDUCIARY DUTY**
 WHEREAS, the ICF is entrusted with a singular stewardship role, evidenced by two key events: the ICO of ATOM tokens and the subsequent allocation of ATOM tokens at Genesis; and 
+
 WHEREAS, these events establish an ongoing fiduciary duty to execute its mandated purpose through initiatives that directly benefit ATOM, with programs and strategic initiatives that align with the stipulated "dominating" focus on the Cosmos Hub and Network as per its founding documents; and 
 
 1.8 	**RESPONSIBILITY** 
@@ -48,6 +49,7 @@ WHEREAS, the grounds for the declaration of no confidence and the "Call to Actio
 
 2.1 	**DEVIATION FROM MANDATED PURPOSE** 
 WHEREAS, prima facie evidence suggests deviation and/or impermissible mutation of the ICF’s mandated purpose; and 
+
 WHEREAS, such deviation or mutation constitutes an ultra vires act, exceeding the scope of the ICF's authority as a Swiss foundation, and may contravene Article 86a of the Swiss Civil Code, which stipulates that a foundation's purpose may only be amended under strictly limited circumstances and with the approval of the FSAF; and 
 
 2.2 	**BREACH OF FIDUCIARY DUTY** 
@@ -65,6 +67,7 @@ WHEREAS, lack of competence and expertise in foundation management has led to go
 
 2.4 	**CONFLICTS OF INTEREST** 
 WHEREAS, unmitigated conflicts of interest (COIs) impair its critical functions in resource allocation and decision-making, particularly affecting grants, vendor agreements, investments, and token delegations; and 
+
 WHEREAS, the ICF's internal controls exhibit inadequate implementations for: 
   
   a. Preventing, detecting, and correcting self-dealing; 
@@ -75,13 +78,17 @@ WHEREAS, the ICF's internal controls exhibit inadequate implementations for:
 
 2.5 	**LACK OF TRANSPARENCY AND ACCOUNTABILITY** 
 WHEREAS, the ICF asserts comprehensive statutory reporting to the FSAF, including "ordinary audits," yet the confidential nature of these filings precludes stakeholder verification; and 
+
 WHEREAS, the ICF's compliance with the FSAF is insufficient to satisfy its transparency and accountability obligations to stakeholders; and for nearly eight years, the ICF has shown a pattern of non-disclosure and obfuscation, resulting in a substantial and potentially incurable information asymmetry; and 
 WHEREAS, this calculated withholding of information appears strategically motivated to frustrate stakeholder demands for reform and oversight; and these actions have created a systemic obstruction of information that disadvantages stakeholders, while compromising the long-term viability of the Cosmos project; and 
 
 2.6 	**FINANCIAL MISMANAGEMENT** 
 WHEREAS, the ICF has shown indications of imprudent Treasury management characterized by funding disruptions, likely due to inadequate risk management, diversification and liquidity management strategies; and 
+
 WHEREAS, the ICF's reporting on its assets fails to meet reasonable disclosure standards, lacking comprehensive inventory of fiat currencies, cryptocurrencies, and other financial instruments; and 
+
 WHEREAS, the ICF has failed to provide stakeholders with timely and adequate reporting on significant changes in various assets and their management strategies on a year-over-year basis, not only obstructs accountability but violates its duty to inform as a not-for-profit purpose foundation and fiduciary; and 
+
 WHEREAS, concerns regarding potential misuse of funds, including allegations of embezzlement, which if substantiated, would violate civil and criminal laws; and 
 
 2.7 	**EROSION OF STAKEHOLDER TRUST** 
