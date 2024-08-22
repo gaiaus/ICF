@@ -111,10 +111,10 @@ We hereby **PETITION** the ICF to publish Comprehensive Annual Reports (hereinaf
 - Areas not covered and why 
 
 - Alternative evaluation measures for uncovered areas 
+
+c. Relevant audit findings, as deemed appropriate by ICF 
  
-  c. Relevant audit findings, as deemed appropriate by ICF 
- 
-  d. Additional information for comprehensive understanding of ICF operations. 
+d. Additional information for comprehensive understanding of ICF operations. 
 
 3.2.3 In cases where certain information cannot be disclosed due to confidentiality constraints, the ICF shall: 
 
