@@ -69,8 +69,6 @@ WHEREAS, the grounds for the declaration of no confidence and the "Call to Actio
 
 WHEREAS, prima facie evidence suggests deviation and/or impermissible mutation of the ICF’s mandated purpose; and 
 
-WHEREAS, such deviation or mutation constitutes an ultra vires act, exceeding the scope of the ICF's authority as a Swiss foundation, and may contravene Article 86a of the Swiss Civil Code, which stipulates that a foundation's purpose may only be amended under strictly limited circumstances and with the approval of the FSAF; and 
-
 2.2 	**BREACH OF FIDUCIARY DUTY** 
 
 WHEREAS, the ICF has observably failed to uphold its fiduciary duties to ATOM investors and the Cosmos Hub, demonstrating indifference to the vital support ATOM still requires; and 
