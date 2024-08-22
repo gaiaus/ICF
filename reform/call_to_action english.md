@@ -118,9 +118,9 @@ We hereby **PETITION** the ICF to publish Comprehensive Annual Reports (hereinaf
 
 3.2.3 In cases where certain information cannot be disclosed due to confidentiality constraints, the ICF shall: 
 
-a. Clearly state the nature of the information that cannot be disclosed 
+  a. Clearly state the nature of the information that cannot be disclosed 
 
-b. Provide the legal or regulatory basis for such non-disclosure 
+  b. Provide the legal or regulatory basis for such non-disclosure 
 
 c. Offer any permissible summary or redacted version of the information that can be shared. 
 This comprehensive reporting structure ensures transparency regarding the ICF's operations, financial status, and governance practices, while also providing clarity on the scope of the requested annual Reports and any limitations in available information. The inclusion of relevant audit findings, at the ICF's discretion, further promotes transparency while respecting necessary confidentiality. 
