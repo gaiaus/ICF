@@ -1,5 +1,5 @@
 ### Summary 
-This proposal expresses a vote of no confidence in the Interchain Foundation (ICF) leadership and calls for increased transparency and accountability. It outlines concerns about the ICF's deviation from its mandated purpose, alleged breaches of fiduciary duty, governance failures, conflicts of interest, lack of transparency, and financial mismanagement.
+This proposal expresses a vote of no confidence in the Interchain Foundation (ICF) leadership and calls for increased transparency and accountability. It outlines concerns about the ICF's deviation from its mandated purpose, governance failures, conflicts of interest, lack of transparency, financial mismanagement, and alleged breach of fiduciary duty.
 
 The proposal asks voters to:
 
