@@ -16,10 +16,13 @@ A YES vote for this proposal means signaling support for:
 - [Specific guidelines](​​https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) for the content and structure of these Reports.
 - Contingency measures, such as directly petitioning the Supervisory Authority (FSAF) to pursue an audit on the ICF, if needed.
 
-**Links**:
+#### Links:
+
 [Full text](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233) of the proposal.
 
 [Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
+
+[Translations Available Here](https://github.com/gaiaus/ICF/tree/main/reform): *Chinese (Simplified, Traditional), Korean, Japanese, Russian, and French* 
 
 ## 1. 	**Preamble**
 
@@ -168,8 +171,6 @@ We ESTABLISH:
 
 3.5 **AFFIRMATION OF INTENT** 
 We AFFIRM this action aims to realign the ICF with its mission and restore stakeholder trust. 
-
-*This proposal is available in French, Chinese (Simplified, Traditional), Korean, Japanese, Russian [here](https://github.com/gaiaus/ICF/tree/main/reform)*
 
 ## 4. Voting Options
 
