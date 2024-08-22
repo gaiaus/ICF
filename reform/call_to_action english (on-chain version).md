@@ -105,7 +105,7 @@ WHEREAS, the ICF's asset reporting fails to meet reasonable disclosure standards
 
 WHEREAS, the ICF's failure to provide stakeholders with timely, comprehensive reports on significant asset changes and management strategies undermines accountability and breaches its fiduciary duty as a not-for-profit foundation; and
 
-WHEREAS, there are concerns about potential misuse of funds, including allegations of embezzlement, which, if proven, would violate civil and criminal laws; and
+WHEREAS, there are concerns about potential misuse of funds, including allegations of misappropriation and embezzlement, which, if proven, would violate civil and criminal laws; and
 
 2.7 	**EROSION OF STAKEHOLDER TRUST** 
 
