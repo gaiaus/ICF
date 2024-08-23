@@ -13,7 +13,7 @@ A YES vote for this proposal means signaling support for:
 - [Specific guidelines](​​https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) for the content and structure of these Reports.
 - Contingency measures, such as directly petitioning the Supervisory Authority (FSAF) to pursue an audit on the ICF, if needed.
 
-#### Links:
+### Links:
 
 [Full text](https://github.com/gaiaus/ICF/blob/main/reform/call_to_action%20english) of the proposal.
 
