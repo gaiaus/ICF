@@ -56,13 +56,6 @@ WHEREAS, the ICF's ongoing fiduciary duty is evidenced by two key events: the IC
 WHEREAS, the ICF bears the key responsibility of coordinating distributed development for decentralized Cosmos architectures, necessitating efficient resource allocation, good governance, legal compliance, and stakeholder engagement; and 
 
 ## 2. 	**Grounds for No Confidence** 
-WHEREAS, the ICF has demonstrably failed to: 
- 
-a. Execute its mandated purpose; 
- 
-b. Perform its fiduciary and legal duties; 
- 
-c. Fulfill its obligations to stakeholders; and 
 
 WHEREAS, the grounds for the declaration of no confidence and the "Call to Action" include, inter alia: 
 
