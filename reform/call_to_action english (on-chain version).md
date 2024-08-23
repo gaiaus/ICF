@@ -158,7 +158,7 @@ d. Additional information for comprehensive understanding of ICF operations.
 
 *Including relevant audit findings, as deemed appropriate by the ICF, further enhances transparency while maintaining necessary confidentiality*.
 
-3.3 **TIMELINE FOR COMPLIANCE** 
+3.3 **TIMELINE FOR DELIVERY** 
 
 We CALL FOR the Reports be published within 60 days of this proposal's passage. 
 
