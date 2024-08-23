@@ -9,7 +9,6 @@ However, this proposal is not an indictment; it’s more importantly, a decisive
 An opportunity for stakeholders to assert constructive asks utilizing reasonable demands and timelines to achieve the transparency that previous calls for accountability failed to secure. 
 
 A YES vote for this proposal means signaling support for:
-
 - A demand for Comprehensive Annual Reports for fiscal years 2017-2023 within 60 days.
 - [Specific guidelines](​​https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) for the content and structure of these Reports.
 - Contingency measures, such as directly petitioning the Supervisory Authority (FSAF) to pursue an audit on the ICF, if needed.
