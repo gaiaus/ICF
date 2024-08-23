@@ -102,6 +102,7 @@ We hereby PETITION the ICF to publish Comprehensive Annual Reports (hereinafter 
 3.2.1 Individual Reports for each fiscal year; no consolidated Reports. 
 
 3.2.2 Each Report shall include: 
+ 
   a. All financial and operational information necessary to understand ICF's activities and programs 
   
   b. A reference to the appended [Audit Scope Reference Document](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference), which confirms:
