@@ -134,7 +134,7 @@ b. A reference to the appended [Audit Scope Reference](https://github.com/gaiaus
 
 c. Relevant audit findings, as deemed appropriate by ICF
 
-d. Additional information for comprehensive understanding of ICF operations.
+d. Additional information for comprehensive understanding of ICF operations
 
 3.2.3 In cases where certain information cannot be disclosed due to confidentiality constraints, the ICF shall:
 
@@ -142,7 +142,7 @@ a. State the nature of the information that cannot be disclosed
 
 b. Provide the legal/regulatory basis for non-disclosure
 
-c. Offer any permissible summary or redacted version of the information that can be shared.
+c. Offer any permissible summary or redacted version of the information that can be shared
 
 _The above-described reporting structure defines the [desired scope for the requested Comprehensive Annual Reports](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference)_.
 
@@ -150,7 +150,7 @@ _Including relevant audit findings, as deemed appropriate by the ICF, further en
 
 3.3 **TIMELINE FOR DELIVERY**
 
-We CALL FOR the Reports be published within 60 days of this proposal's passage.
+We CALL FOR the Reports to be published within 60 days of this proposal's passage.
 
 3.4 **CONTINGENCY MEASURES**
 
