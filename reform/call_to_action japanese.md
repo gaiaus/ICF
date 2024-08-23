@@ -139,11 +139,11 @@ ICF の裁量による関連監査結果の含有は、必要な機密性を尊�
 
 3.4.2 ICFが年次監査の範囲を虚偽表示したことが発見された場合、利害関係者 は60日待機期間に関係なく、これを報告しFSAFに監査および調査を要請します。 
 
+[Audit Scope Reference Document](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference)
+
 3.5 意図の確認 
 
 我々は、この行動がICFをその使命と再調整し、利害関係者の信頼を回復することを目指すもので あることを確認します。 
-
-[Audit Scope Reference Document](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference)
 
 ### 4. 投票オプション 
 **YES 賛成** - ICFリーダーシップに対する不信任を表明し、報告書要請および潜在的FSAF介入を支持しま す。 
