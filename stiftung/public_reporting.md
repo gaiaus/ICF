@@ -59,6 +59,9 @@ The ICF did not publish "Annual Reports" until 2023, starting with the report fo
 > infrastructure; and all operational and administrative staff salaries.
 > [Annual Report 2022 Message from Maria Gomez](https://medium.com/the-interchain-foundation/annual-report-2022-7be419e1a1f4)
 
+
+
+
 **Reported Treasury % from 2020-2022**
 | **Quarter/Year**  | **Total Value** $USD | **Crypto** % | **Fiat** % | **Investments/Public Securities** % |
 |:---               |:---                  |:---          |:---        |:---                                 |     
@@ -67,6 +70,7 @@ The ICF did not publish "Annual Reports" until 2023, starting with the report fo
 | Q4 2020           | **$212M**            | 82%          | 12%        | 6%                                  |
 | Q1 2021           | **$513M**            | **91%**      | 6%         | **3%**                              |
 | Q1-Q4 2022        | **$304M**            | 62.8%        | 38%        | NA                                  | 
+| Q1-Q4 2023        | **$420M**            | 78.8%        | 21.2%      | NA                                  |
 
 *The figures for Q1 through Q4 of 2022 sum up to 100.8%. The percentage values presented in the table are in accordance with the data provided by [ICF's 2022 report](https://drive.google.com/file/d/1gkEQTu5wf8e_ejTMpEnaYz8kYksqzmEM/view)* 
 
