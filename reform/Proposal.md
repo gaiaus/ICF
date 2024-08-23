@@ -128,7 +128,7 @@ a. All financial and operational information necessary to understand ICF's activ
 
 b. A reference to the appended [Audit Scope Reference](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference) Document, which confirms:
 
-- Areas included in the audit
+- Areas included in the annual audit
 - Areas not covered and why
 - Alternative evaluation measures for uncovered areas
 
