@@ -160,6 +160,8 @@ We ESTABLISH:
 
 3.4.2 If discovered that the ICF has misrepresented the scope of its annual audits, stakeholders will report the misrepresentation and petition the FSAF for an audit and investigation, irrespective of the 60-day waiting period.
 
+[Audit Scope Reference Document](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference)
+
 3.5 **AFFIRMATION OF INTENT**
 
 We AFFIRM this action aims to realign the ICF with its mission and restore stakeholder trust.
