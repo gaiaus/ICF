@@ -1,16 +1,17 @@
-DECLARATION OF NO CONFIDENCE IN THE INTERCHAIN FOUNDATION LEADERSHIP: A CALL TO ACTION 
+## DECLARATION OF NO CONFIDENCE IN THE INTERCHAIN FOUNDATION LEADERSHIP: A CALL TO ACTION 
 
-1. 	PREAMBLE 
-1.1 	ESTABLISHMENT 
+### 1. 	PREAMBLE 
+
+#### 1.1 	ESTABLISHMENT
 WHEREAS, the Interchain Foundation (ICF) was established on March 07, 2017, as a Swiss foundation (Stiftung) under CHE-199.569.367; and 
 
-1.2 	LEGAL CONTEXT 
+#### 1.2 	LEGAL CONTEXT 
 WHEREAS, pursuant to Swiss law, a Stiftung may be formed solely for a specific, not-for-profit purpose and is subject to regulatory supervision by the Federal Supervisory Authority for Foundations (FSAF/ESA); and 
 
-1.3 	MANDATED PURPOSE 
+#### 1.3 	**MANDATED PURPOSE** 
 WHEREAS, the ICF's mandated purpose is "promoting and developing new technologies and applications, especially in the fields of new open and decentralized software architectures. A dominating but not exclusive focus is set on the promotion and development of the Cosmos Network, the Polkadot Protocol and the related technologies as well as to conduct the necessary fundraising"; and 
 
-1.4 	FUNDRAISING 
+1.4 	**FUNDRAISING** 
 WHEREAS, the ICF conducted an ICO for ATOM in April 2017, raising $17 million, to fund its endowment; and 
 
 WHEREAS, the Cosmos Plan, as cited in the ATOM ICO Terms and Conditions, defines the ICF's purpose, and creates a fiduciary duty to use the raised funds for: 
