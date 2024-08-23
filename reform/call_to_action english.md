@@ -94,7 +94,7 @@ We hereby PETITION the ICF to publish Comprehensive Annual Reports (hereinafter 
 
 3.2.2 Each Report shall include: 
   a. All financial and operational information necessary to understand ICF's activities and programs 
-  b. A reference to the appended Audit Scope Reference Document, which confirms:
+  b. A reference to the appended [Audit Scope Reference Document](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference), which confirms:
     - Areas included in the annual audit 
     - Areas not covered and why 
     - Alternative evaluation measures for uncovered areas 
@@ -106,7 +106,7 @@ d. Additional information for comprehensive understanding of ICF operations.
   b. Provide the legal or regulatory basis for such non-disclosure 
   c. Offer any permissible summary or redacted version of the information that can be shared. 
 
-The above-described reporting structure defines the desired scope for the requested Comprehensive Annual Reports.
+The above-described reporting structure defines the [desired scope for the requested Comprehensive Annual Reports](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference).
 
 Including relevant audit findings, as deemed appropriate by the ICF, further enhances transparency while maintaining necessary confidentiality.
 
@@ -123,7 +123,7 @@ We ESTABLISH:
 #### 3.5 AFFIRMATION OF INTENT 
 We AFFIRM this action aims to realign the ICF with its mission and restore stakeholder trust. 
 
-Audit Scope Reference Document: https://docs.google.com/document/d/15f3i9XtG3M2JfwZnEelOWOWMWGGNSyatifFPKeUhxyE/edit?usp=sharing
+[Audit Scope Reference Document](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference)
 
 ### 4. VOTING OPTIONS 
 YES - Expresses no confidence in ICF leadership and supports the petition for reports and potential FSAF involvement. 
