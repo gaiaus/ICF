@@ -126,7 +126,10 @@ We AFFIRM this action aims to realign the ICF with its mission and restore stake
 [Audit Scope Reference Document](https://github.com/gaiaus/ICF/blob/main/reform/audit_scope_reference)
 
 ### 4. VOTING OPTIONS 
-YES - Expresses no confidence in ICF leadership and supports the petition for reports and potential FSAF involvement. 
-NO - Does not approve this proposal. 
-ABSTAIN - Contributes to quorum without voting for or against. 
-NO WITH VETO - Indicates the proposal is spam, infringes on minority interests, or violates governance rules. If exceeding 1/3 of total votes, the proposal is rejected and deposits burned.
+**YES** - Expresses no confidence in ICF leadership and supports the petition for reports and potential FSAF involvement. 
+
+**NO** - Does not approve this proposal. 
+
+**ABSTAIN** - Contributes to quorum without voting for or against. 
+
+**NO WITH VETO** - Indicates the proposal is spam, infringes on minority interests, or violates governance rules. If exceeding 1/3 of total votes, the proposal is rejected and deposits burned.
