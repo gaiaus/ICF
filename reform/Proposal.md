@@ -72,7 +72,7 @@ WHEREAS, the failure to prioritize ATOM, despite having received ATOM, BTC, and 
 
 2.3 **GOVERNANCE FAILURES**
 
-WHEREAS, lack of competence and expertise in foundation management has led to governance deficiencies evidenced by:
+WHEREAS, lack of competence and expertise in foundation management has led to governance deficiencies indicated by:
 
 a. Allegations of anti-competitive practices and abuse of dominant position by members of the Foundation Council (FC), potentially violating applicable competition laws and undermining principles of fair governance;
 
