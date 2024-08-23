@@ -2,8 +2,7 @@
 ## Summary 
 This proposal calls for a vote of no confidence in the ICF leadership, grounded by serious concerns over governance failures, undue influences, neglect of purpose and duty. 
 
-Whether established or new, leadership needs awareness in order to be accountable for the legacy, reputation, and future it stewards. 
-No confidence sends a clear zero-tolerance message to the ICF Foundation Council about where they stand, reasons why, and what must be rectified—immediately. 
+Whether established or new, leadership needs reputational awareness to responsibly steward an organization from its legacy into a better future. No confidence sends a clear zero-tolerance message to the ICF Foundation Council about where they stand, reasons why, and what must be rectified—immediately. 
 
 However, this proposal is not an indictment; it’s more importantly, a decisive call to action. 
 
@@ -21,7 +20,7 @@ A YES vote for this proposal means signaling support for:
 
 [Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
 
-[Translations](https://github.com/gaiaus/ICF/tree/main/reform): *Chinese (Simplified, Traditional), Korean, Japanese, Russian, and French* 
+[Translations](https://github.com/gaiaus/ICF/tree/main/reform): *Chinese (Smplfd, Trad), Korean, Japanese, Russian, and French* 
 
 ## 1. 	**Preamble**
 
