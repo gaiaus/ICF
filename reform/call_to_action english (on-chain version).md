@@ -1,4 +1,3 @@
-### Title: Declaration of No Confidence in the Interchain Foundation Leadership: A Call to Action
 
 ## Summary 
 This proposal calls for a vote of no confidence in the ICF leadership, grounded by serious concerns over governance failures, undue influences, neglect of purpose and duty. 
