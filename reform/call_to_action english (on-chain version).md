@@ -17,7 +17,7 @@ A YES vote for this proposal means signaling support for:
 
 #### Links:
 
-[Full text](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233) of the proposal.
+[Full text](https://github.com/gaiaus/ICF/blob/main/reform/call_to_action%20english) of the proposal.
 
 [Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
 
