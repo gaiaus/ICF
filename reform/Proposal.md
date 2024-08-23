@@ -58,7 +58,7 @@ WHEREAS, the ICF bears the key responsibility of coordinating distributed develo
 
 ## 2. **Grounds for No Confidence**
 
-WHEREAS, the grounds for the declaration of no confidence and the "Call to Action" include, inter alia:
+WHEREAS, the grounds for declaration of no confidence and the "Call to Action" include, inter alia:
 
 2.1 **DEVIATION FROM MANDATED PURPOSE**
 
