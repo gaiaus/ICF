@@ -20,7 +20,7 @@ A YES vote for this proposal means signaling support for:
 
 [Forum Discussion](https://forum.cosmos.network/t/proposal-last-call-declaration-of-no-confidence-in-icf-leadership-call-to-action/14233)
 
-[Translations](https://github.com/gaiaus/ICF/tree/main/reform): *Chinese (Smplfd, Trad), Korean, Japanese, Russian, and French* 
+[Translations](https://github.com/gaiaus/ICF/tree/main/reform): *Chinese (Smpl, Trad), Korean, Japanese, Russian, and French* 
 
 ## 1. 	**Preamble**
 
