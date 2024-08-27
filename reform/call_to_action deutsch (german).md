@@ -26,7 +26,7 @@ IN DER ERWÄGUNG, dass der Cosmos-Plan, wie in den ATOM ICO Geschäftsbedingunge
 IN DER ERWÄGUNG, dass der ICF 20.277.188,49 ATOM, also 10% der "Genesis" Bestandsmenge, zugewiesen wurden, mit dem Auftrag, diese Token für die verbundenen Zwecke des "Cosmos Plans" und des durch die Satzung festgelegten Mandats zu verwenden; und
 
 #### 1.6 	BEGÜNSTIGTE
-IN DER ERWÄGUNG, dass ATOM ICO Investoren, Token Inhaber, Validatoren, Entwickler und Mitwirkende, die an der "Governance" (s.z.s. die Protokollsteuerung) des Cosmos Hubs teilnehmen, als allgemeine Begünstigte der Aktivitäten der ICF anerkannt werden und im Folgenden gemeinsam als „Stakeholder“, also als "Aktionäre" bezeichnet werden; und
+IN DER ERWÄGUNG, dass ATOM ICO Investoren, Token Inhaber, Validatoren, Entwickler und Mitwirkende, die an der "Governance" (s.z.s. die Protokollsteuerung) des Cosmos Hubs teilnehmen, als allgemeine Begünstigte der Aktivitäten der ICF anerkannt werden und im Folgenden gemeinsam als „Stakeholder“ bezeichnet werden; und
 
 #### 1.7 	TREUHÄNDERISCHE PFLICHT
 IN DER ERWÄGUNG, dass der ICF eine einzigartige Rolle der Treuhandschaft übertragen wurde, wie durch zwei wichtige Ereignisse belegt wird: das ICO der ATOM Token und die anschließende Zuteilung der ATOM Token beim "Genesis" des Cosmos Hubs; und
@@ -34,7 +34,7 @@ IN DER ERWÄGUNG, dass der ICF eine einzigartige Rolle der Treuhandschaft übert
 IN DER ERWÄGUNG, dass diese Ereignisse eine fortlaufende treuhänderische Pflicht begründen, ihren vorgeschriebenen Zweck durch Initiativen zu erfüllen, die direkt ATOM zugutekommen, mit Programmen und strategischen Initiativen, die sich an dem in den Gründungsdokumenten festgelegten "dominierenden" Schwerpunkt auf das "Cosmos Hub" und Netzwerk orientieren; und
 
 #### 1.8 	VERANTWORTUNG
-IN DER ERWÄGUNG, dass die ICF die kritische Verantwortung trägt, die verteilte Entwicklung dezentraler Cosmos Architekturen zu koordinieren, was eine effiziente Ressourcenzuweisung, gute Governance, rechtliche Erfüllung und Einhaltung sowie das Engagement der Aktionäre ("Stakeholder") voraussetzt; und
+IN DER ERWÄGUNG, dass die ICF die kritische Verantwortung trägt, die verteilte Entwicklung dezentraler Cosmos Architekturen zu koordinieren, was eine effiziente Ressourcenzuweisung, gute Governance, rechtliche Erfüllung und Einhaltung sowie das Engagement der Stakeholder voraussetzt; und
 
 ### 2. 	GRÜNDE FÜR DAS MISSTRAUEN UND AUFRUF ZUM HANDELN
 IN DER ERWÄGUNG, dass die Gründe für die Erklärung des Misstrauensvotums und den "Aufruf zum Handeln" unter anderem Folgendes umfassen:
@@ -85,7 +85,7 @@ IN DER ERWÄGUNG, dass das Versäumnis der ICF, den Stakeholdern eine zeitnahe u
 
 IN DER ERWÄGUNG, dass Bedenken hinsichtlich des möglichen Missbrauchs von Geldern bestehen, einschließlich Vorwürfen der Veruntreuung und Unterschlagung, die, falls bestätigt, gegen Zivil- und Strafgesetze verstoßen würden; und
 
-#### 2.7 	EROSION DES VERTRAUENS DER AKTIONÄRE
+#### 2.7 	EROSION DES VERTRAUENS DER STAKEHOLDER
 IN DER ERWÄGUNG, dass alle oben aufgeführten Bedenken nicht nur über ethische Aspekte und/ oder Verstöße gegen die Satzung der ICF hinausgehen, sondern möglicherweise auch gegen das schweizerische Bürgerliche Gesetzbuch, das schweizerische Obligationenrecht, das schweizerische Strafgesetzbuch und das schweizerische Stiftungsrecht verstoßen; und
 
 IN DER ERWÄGUNG, dass diese dringenden Probleme sofortige und entschlossene Maßnahmen der Stakeholder erfordern;
