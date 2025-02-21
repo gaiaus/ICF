@@ -6,7 +6,7 @@ ICF Bitcoin: [35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8](https://explorer.btc.com/btc/s
 
 [ICF Bitcoin Cash](bitcoincash:pqhzx2n94uhcj8xtk9szx6pm3kl2367vau9n6u7swt)
 
-* [ICF BTC Tx history](https://github.com/gaiaus/ICF/blob/main/stiftung/finances/treasury/BTC/ICF%20BTC%20Tx%20History%20-%20USD.csv)
+* [History](https://github.com/gaiaus/ICF/blob/main/stiftung/finances/treasury/BTC/ICF%20BTC%20Tx%20History%20-%20USD.csv)
 * Reported BTC balance as per 2022 ICF annual report: **4% of 304M**
 * $304,000,000* 0,05 = **$12.16M** in BTC
 * BTC total received: **4,882.41138665 BTC**
