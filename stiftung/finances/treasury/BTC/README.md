@@ -1,6 +1,8 @@
 ## BTC
 
-ICF Bitcoin: [35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8](https://explorer.btc.com/btc/search/35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8)
+ICF Bitcoin: [35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8](https://explorer.btc.com/btc/search/35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8) [old]
+
+[35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8](https://www.blockchain.com/explorer/addresses/btc/35ty8iaSbWsj4YVkoHzs9pZMze6dapeoZ8) [current]
 
 [ICF Bitcoin Cash](bitcoincash:pqhzx2n94uhcj8xtk9szx6pm3kl2367vau9n6u7swt)
 
